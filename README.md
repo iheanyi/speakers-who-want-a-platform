@@ -15,5 +15,3 @@ Software Engineer
 DigitalOcean  
 [Website](http://iheanyi.com) | [Twitter](https://twitter.com/kwuchu) |
 [GitHub](https://github.com/iheanyi)
-
-## Contributing
