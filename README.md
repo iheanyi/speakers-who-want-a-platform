@@ -1,4 +1,4 @@
-# Underrepresented Speakers for Your Conference
+# Speakers Who Want a Platform
 
 ## Rationale 
 Often, we find speaker lists or panels at conferences and other events that lack
