@@ -81,3 +81,7 @@ Restive
 [Website](http://obihill.com) | [Twitter](https://twitter.com/obihill) |
 [GitHub](https://github.com/obihill)
 
+Ruth Miller
+Product Manager and Facilitator
+[Website](http://ruthmiller.net) | [Twitter](https://twitter.com/mcplanner) |
+[LinkedIn](https://linkedin.com/in/mcplanner)
