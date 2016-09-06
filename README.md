@@ -129,3 +129,9 @@ Software Engineer
 Uptake  
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
+
+Vasanth Krishnamoorthy
+Sr. Front End Engineer
+WalmartLabs  
+[Website](http://www.vasanthk.com/) | [Twitter](https://twitter.com/vasanth_k) |
+[GitHub](https://github.com/vasanthk)
