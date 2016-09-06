@@ -85,7 +85,6 @@ Alexander Miranda
 Software Engineer  
 [Website](https://amiranda.me) | [Twitter](https://twitter.com/amiranda222) | [GitHub](https://github.com/ammiranda)  
 
-
 Vaidehi Joshi  
 Software Engineer  
 Imprint  
@@ -112,3 +111,8 @@ Technical Manager & Front-End Developer
 Hack the Hood
 [Website](http://lynmuldrow.com) | [Twitter](http://twitter.com/lynmuldrow) | 
 [LinkedIn](http://linkedin.com/in/lynmuldrow)
+
+Gloria Kimbwala  
+Campus Technical Specialist  
+Square  
+[Twitter](https://twitter.com/gkimbwala) | [LinkedIn](https://linkedin.com/in/gkimbwala) | [GitHub](https://github.com/gkimbwala)  
