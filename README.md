@@ -21,3 +21,8 @@ Lead UI Engineer
 Eventbrite  
 [Blog](http://www.benmvp.com) | [Twitter](https://twitter.com/benmvp) |
 [GitHub](https://github.com/benmvp)
+
+Juan Soto
+Web Developer
+[Website](http://juansoto.me) | [Twitter](https://twitter.com/_hooan) |
+[GitHub](https://github.com/sotojuan)
