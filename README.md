@@ -129,3 +129,8 @@ Software Engineer
 Uptake  
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
+
+Ivana McConnell
+UI/UX Designer
+Customer.io
+[Website](http://ivanamcconnell.com) | [Twitter](https://twitter.com/ivanamcconnell) | [LinkedIn](https://www.linkedin.com/in/ivanamcconnell)
