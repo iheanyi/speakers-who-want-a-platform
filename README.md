@@ -129,3 +129,9 @@ Software Engineer
 Uptake  
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
+
+Karmen Blake
+Software Engineer  
+https://www.usertesting.com
+[Website](http://blog.dudeblake.com/) | [Twitter](https://twitter.com/kblake) |
+[GitHub](https://github.com/kblake)
