@@ -30,3 +30,8 @@ Web Developer
 Susan Lin  
 Product Designer  
 [Website](http://bysusanlin.com) | [Twitter](https://twitter.com/bysusanlin) | [GitHub](https://github.com/bysl) | [Medium](https://medium.com/@bysusanlin)
+
+Johnny Ray Austin  
+Director of Technology  
+ISL  
+[Website](https://johnnyray.me) | [Twitter](https://twitter.com/recursivefunk) | [Github](https://github.com/recursivefunk) | [Blog](https://medium.com/@recursivefunk)
