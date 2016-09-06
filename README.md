@@ -30,3 +30,7 @@ Web Developer
 Susan Lin  
 Product Designer  
 [Website](http://bysusanlin.com) | [Twitter](https://twitter.com/bysusanlin) | [GitHub](https://github.com/bysl) | [Medium](https://medium.com/@bysusanlin)
+
+Alexander Miranda
+Software Engineer
+[Website](https://amiranda.me) | [Twitter](https://twitter.com/amiranda222) | [GitHub](https://github.com/ammiranda)
