@@ -66,8 +66,8 @@ Stanton Ventures
 [Website & Blog](http://www.alisonstanton.com/) | [Twitter](https://twitter.com/alison985) | [Github](https://github.com/alison985)
 
 David Yarde  
-Partner & Creative Director
-Sevenality
+Partner & Creative Director  
+Sevenality  
 [Personal Website](http://davidyarde.com) | [Company Website](http://sevenality.com) | [Twitter](https://twitter.com/dsmy) |
 [GitHub](https://github.com/dsmy) | [Linkedin](https://www.linkedin.com/in/davidyarde) | [Youtube](https://www.youtube.com/c/davidyarde) | [Amazon](https://www.amazon.com/David-Yarde/e/B00P6XFLOG/) | [Dribbble](https://dribbble.com/dsmy)
 
@@ -81,3 +81,18 @@ Restive
 [Website](http://obihill.com) | [Twitter](https://twitter.com/obihill) |
 [GitHub](https://github.com/obihill)
 
+Alexander Miranda  
+Software Engineer  
+[Website](https://amiranda.me) | [Twitter](https://twitter.com/amiranda222) | [GitHub](https://github.com/ammiranda)  
+
+Vaidehi Joshi  
+Software Engineer  
+Imprint  
+[Website](http://vaidehi.com) | [Twitter](https://twitter.com/vaidehijoshi) |
+[GitHub](https://github.com/vaidehijoshi)| [Blog](https://vaidehijoshi.github.io)
+
+
+Ashley Ellis  
+Software Engineer  
+thoughtbot  
+[Website](http://ashleyellis.io/) | [Twitter](https://twitter.com/ashleynellis) | [GitHub](https://github.com/anellis)
