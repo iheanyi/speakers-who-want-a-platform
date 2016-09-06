@@ -129,3 +129,9 @@ Software Engineer
 Uptake  
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
+
+Guilherme (coder) de Souza
+Product Engineer
+Sprinklr
+[Website](http://guisouza.github.io) | [Twitter](https://twitter.com/_gui_souza) |
+[GitHub](https://github.com/guisouza)
