@@ -15,3 +15,9 @@ Software Engineer
 DigitalOcean  
 [Website](http://iheanyi.com) | [Twitter](https://twitter.com/kwuchu) |
 [GitHub](https://github.com/iheanyi)
+
+Ben Ilegbodu  
+Lead UI Engineer  
+Eventbrite  
+[Blog](http://www.benmvp.com) | [Twitter](https://twitter.com/benmvp) |
+[GitHub](https://github.com/benmvp)
