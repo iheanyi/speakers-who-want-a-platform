@@ -75,4 +75,7 @@ Restive
 [Website](http://obihill.com) | [Twitter](https://twitter.com/obihill) |
 [GitHub](https://github.com/obihill)
 
-
+Lauren Dorman  
+Front-End Engineer  
+[Website](http://laurendorman.io) | [Twitter](https://twitter.com/laurendorman) |
+[GitHub](https://github.com/laurendorman)  
