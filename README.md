@@ -85,6 +85,7 @@ Alexander Miranda
 Software Engineer  
 [Website](https://amiranda.me) | [Twitter](https://twitter.com/amiranda222) | [GitHub](https://github.com/ammiranda)  
 
+
 Vaidehi Joshi  
 Software Engineer  
 Imprint  
@@ -105,3 +106,9 @@ Señorita Software Engineer
 Netflix
 [Website](www.sugarpirate.com) | [Twitter](https://twitter.com/sugarpirate_) |
 [GitHub](https://github.com/poteto)
+
+Lyn Muldrow
+Technical Manager & Front-End Developer
+Hack the Hood
+[Website](http://lynmuldrow.com) | [Twitter](http://twitter.com/lynmuldrow) | 
+[LinkedIn](http://linkedin.com/in/lynmuldrow)
