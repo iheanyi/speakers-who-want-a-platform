@@ -26,3 +26,9 @@ Juan Soto
 Web Developer  
 [Website](http://juansoto.me) | [Twitter](https://twitter.com/_hooan) |
 [GitHub](https://github.com/sotojuan)
+
+Alison Stanton
+Chief Problem Solver (Data Engineer & Architect)
+Stanton Ventures
+[Website & Blog](http://www.alisonstanton.com/) | [Twitter](https://twitter.com/alison985) | 
+[Github](https://github.com/alison985)
