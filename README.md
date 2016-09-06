@@ -30,3 +30,7 @@ Web Developer
 Susan Lin  
 Product Designer  
 [Website](http://bysusanlin.com) | [Twitter](https://twitter.com/bysusanlin) | [GitHub](https://github.com/bysl) | [Medium](https://medium.com/@bysusanlin)
+
+Adekunle Oduye 
+Product Designer  
+[Website](http://www.adekunleoduye.com/) | [Twitter](https://twitter.com/adekunleoduye) | [GitHub](https://github.com/adekunleoduye) | [Blog](http://www.adekunleoduye.com/blog/)
