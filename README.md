@@ -26,3 +26,10 @@ Juan Soto
 Web Developer  
 [Website](http://juansoto.me) | [Twitter](https://twitter.com/_hooan) |
 [GitHub](https://github.com/sotojuan)
+
+Hidde van der Ploeg
+Lead Product Designer
+Lightspeed POS
+[Website](http://hiddevdploeg.com) | [Twitter](https://twitter.com/hiddevdploeg) |
+[GitHub](https://github.com/hiddevdploeg)
+
