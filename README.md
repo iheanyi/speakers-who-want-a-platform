@@ -10,68 +10,68 @@ contributing.
 
 ## Speakers
 
-Iheanyi Ekechukwu
-Software Engineer
-DigitalOcean
+Iheanyi Ekechukwu  
+Software Engineer  
+DigitalOcean  
 [Website](http://iheanyi.com) | [Twitter](https://twitter.com/kwuchu) |
-[GitHub](https://github.com/iheanyi)
+[GitHub](https://github.com/iheanyi)  
 
-Ben Ilegbodu
-Lead UI Engineer
-Eventbrite
+Ben Ilegbodu  
+Lead UI Engineer  
+Eventbrite  
 [Blog](http://www.benmvp.com) | [Twitter](https://twitter.com/benmvp) |
-[GitHub](https://github.com/benmvp)
+[GitHub](https://github.com/benmvp)  
 
-Juan Soto
-Web Developer
+Juan Soto  
+Web Developer  
 [Website](http://juansoto.me) | [Twitter](https://twitter.com/_hooan) |
-[GitHub](https://github.com/sotojuan)
+[GitHub](https://github.com/sotojuan)  
 
-Susan Lin
-Product Designer
-[Website](http://bysusanlin.com) | [Twitter](https://twitter.com/bysusanlin) | [GitHub](https://github.com/bysl) | [Medium](https://medium.com/@bysusanlin)
+Susan Lin  
+Product Designer  
+[Website](http://bysusanlin.com) | [Twitter](https://twitter.com/bysusanlin) | [GitHub](https://github.com/bysl) | [Medium](https://medium.com/@bysusanlin)  
 
-Jonah Kirangi
-Front-End Software Engineer
-Remitly
-[Website](http://www.jonahkirangi.com) | [Twitter](https://twitter.com/jonahkirangi) | [YouTube](https://www.youtube.com/user/jonahkirangi) | [GitHub](https://github.com/jonahkirangi)
+Jonah Kirangi  
+Front-End Software Engineer  
+Remitly  
+[Website](http://www.jonahkirangi.com) | [Twitter](https://twitter.com/jonahkirangi) | [YouTube](https://www.youtube.com/user/jonahkirangi) | [GitHub](https://github.com/jonahkirangi)  
 
-Johnny Ray Austin
-Director of Technology
-ISL
-[Website](https://johnnyray.me) | [Twitter](https://twitter.com/recursivefunk) | [Github](https://github.com/recursivefunk) | [Blog](https://medium.com/@recursivefunk)
+Johnny Ray Austin  
+Director of Technology  
+ISL  
+[Website](https://johnnyray.me) | [Twitter](https://twitter.com/recursivefunk) | [Github](https://github.com/recursivefunk) | [Blog](https://medium.com/@recursivefunk)  
 
-Emmanuel Obi
-Software Engineer
-[5th Column](http://5thcolumn.net/)
+Emmanuel Obi  
+Software Engineer  
+[5th Column](http://5thcolumn.net/)  
 [Website](http://withtwoemms@github.io) | [Twitter](https://twitter.com/manualautomaton) |
 [Github-personal](https://github.com/withtwoemms) |
-[Github-pro](https://github.com/emmanuellyautomated)
+[Github-pro](https://github.com/emmanuellyautomated)  
 
-Hardy Jones
-Software Engineer
-NoRedInk
+Hardy Jones  
+Software Engineer  
+NoRedInk  
 [Website](http://joneshf.github.io/) | [Twitter](https://twitter.com/st58) |
-[GitHub](https://github.com/joneshf/)
+[GitHub](https://github.com/joneshf/)  
 
-Corey Hobbs
-Business Development: Integrations
-GitHub
+Corey Hobbs  
+Business Development: Integrations  
+GitHub  
 [Website](http://corey.chocolatejs.com/) | [Twitter](https://twitter.com/chobberoni) |
 [GitHub](https://github.com/chobberoni)
 
-Alison Stanton
-Chief Problem Solver (Data Engineer & Architect)
-Stanton Ventures
+Alison Stanton  
+Chief Problem Solver (Data Engineer & Architect)  
+Stanton Ventures  
 [Website & Blog](http://www.alisonstanton.com/) | [Twitter](https://twitter.com/alison985) | [Github](https://github.com/alison985)
 
-Adekunle Oduye
-Product Designer
+Adekunle Oduye  
+Product Designer  
 [Website](http://www.adekunleoduye.com/) | [Twitter](https://twitter.com/adekunleoduye) | [GitHub](https://github.com/adekunleoduye) | [Blog](http://www.adekunleoduye.com/blog/)
 
-Obinwanne Hill
-Founder and Lead Developer
-Restive
+Obinwanne Hill  
+Founder and Lead Developer  
+Restive  
 [Website](http://obihill.com) | [Twitter](https://twitter.com/obihill) |
 [GitHub](https://github.com/obihill)
 
