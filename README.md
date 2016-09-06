@@ -129,3 +129,8 @@ Software Engineer
 Uptake  
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
+
+Rong Lu
+Program Manager
+Microsoft
+[Channel9](https://channel9.msdn.com/Events/Speakers/rong-lu)| [Twitter](https://twitter.com/davorabbit)
