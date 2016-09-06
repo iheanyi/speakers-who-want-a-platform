@@ -26,3 +26,9 @@ Juan Soto
 Web Developer  
 [Website](http://juansoto.me) | [Twitter](https://twitter.com/_hooan) |
 [GitHub](https://github.com/sotojuan)
+
+Lauren Tan  
+Señorita Software Engineer
+Netflix
+[Website](www.sugarpirate.com) | [Twitter](https://twitter.com/sugarpirate_) |
+[GitHub](https://github.com/poteto)
