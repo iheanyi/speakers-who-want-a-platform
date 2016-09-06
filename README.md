@@ -129,3 +129,8 @@ Software Engineer
 Uptake  
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
+
+Taylor Barnett
+Developer Evangelist
+Keen IO
+[Twitter](https://twitter.com/taylor_atx) | [Website](http://taylorbar.net/) | [GitHub](https://github.com/tbarn)
