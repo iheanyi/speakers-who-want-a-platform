@@ -26,3 +26,9 @@ Juan Soto
 Web Developer  
 [Website](http://juansoto.me) | [Twitter](https://twitter.com/_hooan) |
 [GitHub](https://github.com/sotojuan)
+
+David Yarde  
+Partner & Creative Director
+Sevenality
+[Personal Website](http://davidyarde.com) | [Company Website](http://sevenality.com) | [Twitter](https://twitter.com/dsmy) |
+[GitHub](https://github.com/dsmy) | [Linkedin](https://www.linkedin.com/in/davidyarde) | [Youtube](https://www.youtube.com/c/davidyarde) | [Amazon](https://www.amazon.com/David-Yarde/e/B00P6XFLOG/) | [Dribbble](https://dribbble.com/dsmy)
