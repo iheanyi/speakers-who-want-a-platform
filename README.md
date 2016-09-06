@@ -99,3 +99,9 @@ thoughtbot
 Ruth Miller  
 Product Manager and Facilitator  
 [Website](http://ruthmiller.net) | [Twitter](https://twitter.com/mcplanner) | [LinkedIn](https://linkedin.com/in/mcplanner)
+
+Lauren Tan  
+Señorita Software Engineer
+Netflix
+[Website](www.sugarpirate.com) | [Twitter](https://twitter.com/sugarpirate_) |
+[GitHub](https://github.com/poteto)
