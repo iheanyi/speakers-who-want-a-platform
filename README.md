@@ -101,6 +101,6 @@ Product Manager and Facilitator
 [Website](http://ruthmiller.net) | [Twitter](https://twitter.com/mcplanner) | [LinkedIn](https://linkedin.com/in/mcplanner)
 
 Gloria Kimbwala
-Campus Technical Specialist 
+Campus Technical Specialist
 Square
 [Twitter](https://twitter.com/gkimbwala) | [LinkedIn](https://linkedin.com/in/gkimbwala) | [GitHub](https://github.com/gkimbwala)
