@@ -99,3 +99,8 @@ thoughtbot
 Ruth Miller  
 Product Manager and Facilitator  
 [Website](http://ruthmiller.net) | [Twitter](https://twitter.com/mcplanner) | [LinkedIn](https://linkedin.com/in/mcplanner)
+
+Patricia Realini
+Software Engineer
+Bustle
+[Website](http://patriciarealini.com) | [Twitter](https://twitter.com/patriciarealini) | [GitHub](https://github.com/patriciarealini)
