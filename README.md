@@ -30,3 +30,9 @@ Web Developer
 Susan Lin  
 Product Designer  
 [Website](http://bysusanlin.com) | [Twitter](https://twitter.com/bysusanlin) | [GitHub](https://github.com/bysl) | [Medium](https://medium.com/@bysusanlin)
+
+Obinwanne Hill  
+Founder and Lead Developer  
+Restive  
+[Website](http://obihill.com) | [Twitter](https://twitter.com/obihill) |
+[GitHub](https://github.com/obihill)
