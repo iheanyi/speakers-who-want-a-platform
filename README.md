@@ -116,3 +116,8 @@ Gloria Kimbwala
 Campus Technical Specialist  
 Square  
 [Twitter](https://twitter.com/gkimbwala) | [LinkedIn](https://linkedin.com/in/gkimbwala) | [GitHub](https://github.com/gkimbwala)  
+
+Patricia Realini
+Software Engineer
+Bustle
+[Website](http://patriciarealini.com) | [Twitter](https://twitter.com/patriciarealini) | [GitHub](https://github.com/patriciarealini)
