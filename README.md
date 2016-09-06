@@ -91,8 +91,11 @@ Imprint
 [Website](http://vaidehi.com) | [Twitter](https://twitter.com/vaidehijoshi) |
 [GitHub](https://github.com/vaidehijoshi)| [Blog](https://vaidehijoshi.github.io)
 
-
 Ashley Ellis  
 Software Engineer  
 thoughtbot  
 [Website](http://ashleyellis.io/) | [Twitter](https://twitter.com/ashleynellis) | [GitHub](https://github.com/anellis)
+
+Ruth Miller  
+Product Manager and Facilitator  
+[Website](http://ruthmiller.net) | [Twitter](https://twitter.com/mcplanner) | [LinkedIn](https://linkedin.com/in/mcplanner)
