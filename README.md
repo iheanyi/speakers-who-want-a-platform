@@ -81,3 +81,8 @@ Restive
 [Website](http://obihill.com) | [Twitter](https://twitter.com/obihill) |
 [GitHub](https://github.com/obihill)
 
+Ashley Ellis
+Software Engineer
+thoughtbot
+[Website](http://ashleyellis.io/) | [Twitter](https://twitter.com/ashleynellis) | [GitHub](https://github.com/anellis)
+
