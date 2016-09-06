@@ -26,3 +26,10 @@ Juan Soto
 Web Developer  
 [Website](http://juansoto.me) | [Twitter](https://twitter.com/_hooan) |
 [GitHub](https://github.com/sotojuan)
+
+Corey Hobbs
+Business Development: Integrations
+GitHub
+[Website](http://corey.chocolatejs.com/) | [Twitter](https://twitter.com/chobberoni) |
+[GitHub](https://github.com/chobberoni)
+
