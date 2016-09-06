@@ -26,3 +26,9 @@ Juan Soto
 Web Developer  
 [Website](http://juansoto.me) | [Twitter](https://twitter.com/_hooan) |
 [GitHub](https://github.com/sotojuan)
+
+Hardy Jones  
+Software Engineer  
+NoRedInk  
+[Website](http://joneshf.github.io/) | [Twitter](https://twitter.com/st58) |
+[GitHub](https://github.com/joneshf/)
