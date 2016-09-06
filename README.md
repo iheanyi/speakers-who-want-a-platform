@@ -102,9 +102,8 @@ Product Manager and Facilitator
 
 Lauren Tan  
 Señorita Software Engineer
-Netflix
-[Website](www.sugarpirate.com) | [Twitter](https://twitter.com/sugarpirate_) |
-[GitHub](https://github.com/poteto)
+Netflix  
+[Website](www.sugarpirate.com) | [Twitter](https://twitter.com/sugarpirate_) | [GitHub](https://github.com/poteto)  
 
 Lyn Muldrow  
 Technical Manager & Front-End Developer  
