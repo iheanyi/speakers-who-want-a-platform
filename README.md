@@ -101,14 +101,14 @@ Product Manager and Facilitator
 [Website](http://ruthmiller.net) | [Twitter](https://twitter.com/mcplanner) | [LinkedIn](https://linkedin.com/in/mcplanner)
 
 Lauren Tan  
-Señorita Software Engineer
-Netflix
+Señorita Software Engineer 
+Netflix 
 [Website](www.sugarpirate.com) | [Twitter](https://twitter.com/sugarpirate_) |
 [GitHub](https://github.com/poteto)
 
-Lyn Muldrow
-Technical Manager & Front-End Developer
-Hack the Hood
+Lyn Muldrow 
+Technical Manager & Front-End Developer 
+Hack the Hood 
 [Website](http://lynmuldrow.com) | [Twitter](http://twitter.com/lynmuldrow) | 
 [LinkedIn](http://linkedin.com/in/lynmuldrow)
 
@@ -117,9 +117,9 @@ Campus Technical Specialist
 Square  
 [Twitter](https://twitter.com/gkimbwala) | [LinkedIn](https://linkedin.com/in/gkimbwala) | [GitHub](https://github.com/gkimbwala)  
 
-Patricia Realini
-Software Engineer
-Bustle
+Patricia Realini 
+Software Engineer 
+Bustle 
 [Website](http://patriciarealini.com) | [Twitter](https://twitter.com/patriciarealini) | [GitHub](https://github.com/patriciarealini)
 
 Jacky Alciné
