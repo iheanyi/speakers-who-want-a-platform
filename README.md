@@ -129,3 +129,8 @@ Software Engineer
 Uptake  
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
+
+Richard Bottoms  
+Founder 
+GlassHand VR  
+[Website](http://www.glasshandvr.com) | [Website](http://www.superfy.tv) | [Twitter](http://twitter.com/GlassHandVR) | [GitHub](https://github.com/rbottoms)  
