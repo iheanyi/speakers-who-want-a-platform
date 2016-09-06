@@ -82,7 +82,10 @@ Restive
 [GitHub](https://github.com/obihill)
 
 Lyn Muldrow
+
 Technical Manager & Front-End Developer
+
 Hack the Hood
-[Website](http://lynmuldrow.com) | [Twitter](http://twitter.com/lynmuldrow) | [LinkedIn](http://linkedin.com/in/lynmuldrow)
+[Website](http://lynmuldrow.com) | [Twitter](http://twitter.com/lynmuldrow) | 
+[LinkedIn](http://linkedin.com/in/lynmuldrow)
 
