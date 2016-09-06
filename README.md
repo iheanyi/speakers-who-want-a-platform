@@ -106,25 +106,24 @@ Netflix
 [Website](www.sugarpirate.com) | [Twitter](https://twitter.com/sugarpirate_) |
 [GitHub](https://github.com/poteto)
 
-Lyn Muldrow
-Technical Manager & Front-End Developer
-Hack the Hood
-[Website](http://lynmuldrow.com) | [Twitter](http://twitter.com/lynmuldrow) | 
-[LinkedIn](http://linkedin.com/in/lynmuldrow)
+Lyn Muldrow  
+Technical Manager & Front-End Developer  
+Hack the Hood  
+[Website](http://lynmuldrow.com) | [Twitter](http://twitter.com/lynmuldrow) | [LinkedIn](http://linkedin.com/in/lynmuldrow)  
 
 Gloria Kimbwala  
 Campus Technical Specialist  
 Square  
 [Twitter](https://twitter.com/gkimbwala) | [LinkedIn](https://linkedin.com/in/gkimbwala) | [GitHub](https://github.com/gkimbwala)  
 
-Patricia Realini
-Software Engineer
-Bustle
-[Website](http://patriciarealini.com) | [Twitter](https://twitter.com/patriciarealini) | [GitHub](https://github.com/patriciarealini)
+Patricia Realini  
+Software Engineer  
+Bustle  
+[Website](http://patriciarealini.com) | [Twitter](https://twitter.com/patriciarealini) | [GitHub](https://github.com/patriciarealini)  
 
-Jacky Alciné
-Software Engineer that Uses a Afropick as His Leader Key
-[Website](https://jacky.wtf) | [Twitter](https://twitter.com/jackyalcine) | [Current Mood](http://black.af)
+Jacky Alciné  
+Software Engineer that Uses a Afropick as His Leader Key  
+[Website](https://jacky.wtf) | [Twitter](https://twitter.com/jackyalcine) | [Current Mood](http://black.af)  
 
 Michael Lancaster  
 Software Engineer  
