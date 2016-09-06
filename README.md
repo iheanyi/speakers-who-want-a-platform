@@ -125,3 +125,9 @@ Bustle
 Jacky Alciné
 Software Engineer that Uses a Afropick as His Leader Key
 [Website](https://jacky.wtf) | [Twitter](https://twitter.com/jackyalcine) | [Current Mood](http://black.af)
+
+Michael Lancaster  
+Software Engineer  
+Uptake  
+[Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
+[GitHub](https://github.com/weblancaster)
