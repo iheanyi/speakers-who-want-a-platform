@@ -26,3 +26,7 @@ Juan Soto
 Web Developer  
 [Website](http://juansoto.me) | [Twitter](https://twitter.com/_hooan) |
 [GitHub](https://github.com/sotojuan)
+
+Susan Lin  
+Product Designer  
+[Website](http://bysusanlin.com) | [Twitter](https://twitter.com/bysusanlin) | [GitHub](https://github.com/bysl) | [Medium](https://medium.com/@bysusanlin)
