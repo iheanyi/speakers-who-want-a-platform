@@ -121,3 +121,7 @@ Patricia Realini
 Software Engineer
 Bustle
 [Website](http://patriciarealini.com) | [Twitter](https://twitter.com/patriciarealini) | [GitHub](https://github.com/patriciarealini)
+
+Jacky Alciné
+Software Engineer that Uses a Afropick as His Leader Key
+[Website](https://jacky.wtf) | [Twitter](https://twitter.com/jackyalcine) | [Current Mood](http://black.af)
