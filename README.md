@@ -121,3 +121,9 @@ Patricia Realini
 Software Engineer
 Bustle
 [Website](http://patriciarealini.com) | [Twitter](https://twitter.com/patriciarealini) | [GitHub](https://github.com/patriciarealini)
+
+Michael Lancaster  
+Software Engineer  
+Uptake  
+[Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
+[GitHub](https://github.com/weblancaster)
