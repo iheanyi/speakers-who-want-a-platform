@@ -131,3 +131,8 @@ Software Engineer
 Uptake  
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
+
+Ron Bronson
+Service Designer & UX Strategist
+[Twitter] (http://twitter.com/ronbronson) | [Medium] (http://medium.com/@ronbronson) | 
+[Lanyrd] (http://lanyrd.com/profile/ronbronson/) | [Speakerdeck] (https://speakerdeck.com/ronbronson)
