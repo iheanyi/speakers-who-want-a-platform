@@ -65,6 +65,12 @@ Chief Problem Solver (Data Engineer & Architect)
 Stanton Ventures  
 [Website & Blog](http://www.alisonstanton.com/) | [Twitter](https://twitter.com/alison985) | [Github](https://github.com/alison985)
 
+David Yarde  
+Partner & Creative Director
+Sevenality
+[Personal Website](http://davidyarde.com) | [Company Website](http://sevenality.com) | [Twitter](https://twitter.com/dsmy) |
+[GitHub](https://github.com/dsmy) | [Linkedin](https://www.linkedin.com/in/davidyarde) | [Youtube](https://www.youtube.com/c/davidyarde) | [Amazon](https://www.amazon.com/David-Yarde/e/B00P6XFLOG/) | [Dribbble](https://dribbble.com/dsmy)
+
 Adekunle Oduye  
 Product Designer  
 [Website](http://www.adekunleoduye.com/) | [Twitter](https://twitter.com/adekunleoduye) | [GitHub](https://github.com/adekunleoduye) | [Blog](http://www.adekunleoduye.com/blog/)
