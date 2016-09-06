@@ -26,3 +26,8 @@ Juan Soto
 Web Developer  
 [Website](http://juansoto.me) | [Twitter](https://twitter.com/_hooan) |
 [GitHub](https://github.com/sotojuan)
+
+Johnny Ray Austin  
+Director of Technology  
+ISL  
+[Website](https://johnnyray.me) | [Twitter](https://twitter.com/recursivefunk) | [Github](https://github.com/recursivefunk) | [Blog](https://medium.com/@recursivefunk)
