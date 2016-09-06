@@ -99,3 +99,7 @@ thoughtbot
 Ruth Miller  
 Product Manager and Facilitator  
 [Website](http://ruthmiller.net) | [Twitter](https://twitter.com/mcplanner) | [LinkedIn](https://linkedin.com/in/mcplanner)
+
+Jacky Alcine
+Software Engineer that Uses a Afropick as His Leader Key
+[Website](https://jacky.wtf) | [Twitter](https://twitter.com/jackyalcine) | [Current Mood](http://black.af)
