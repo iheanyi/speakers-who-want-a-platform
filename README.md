@@ -1,6 +1,6 @@
 # Speakers Who Want a Platform
 
-## Rationale 
+## Rationale
 Often, we find speaker lists or panels at conferences and other events that lack
 people from underrepresented groups. At times, we hear the excuse that there
 aren't enough people from underrepresented groups to reach out to or that they
@@ -10,19 +10,24 @@ contributing.
 
 ## Speakers
 
-Iheanyi Ekechukwu  
-Software Engineer  
-DigitalOcean  
+Iheanyi Ekechukwu
+Software Engineer
+DigitalOcean
 [Website](http://iheanyi.com) | [Twitter](https://twitter.com/kwuchu) |
 [GitHub](https://github.com/iheanyi)
 
-Ben Ilegbodu  
-Lead UI Engineer  
-Eventbrite  
+Ben Ilegbodu
+Lead UI Engineer
+Eventbrite
 [Blog](http://www.benmvp.com) | [Twitter](https://twitter.com/benmvp) |
 [GitHub](https://github.com/benmvp)
 
-Juan Soto  
-Web Developer  
+Juan Soto
+Web Developer
 [Website](http://juansoto.me) | [Twitter](https://twitter.com/_hooan) |
 [GitHub](https://github.com/sotojuan)
+
+Jonah Kirangi
+Front-End Software Engineer
+Remitly
+[Website](http://www.jonahkirangi.com) | [Twitter](https://twitter.com/jonahkirangi) | [YouTube](https://www.youtube.com/user/jonahkirangi) | [GitHub](https://github.com/jonahkirangi)
