@@ -130,6 +130,6 @@ Uptake
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
 
-Timothy B. Smith
-Frontend Designer
+Timothy B. Smith   
+Frontend Designer   
 [Website](https://ttimsmith.com) | [Twitter](https://twitter.com/smithtimmytim) | [GitHub](https://github.com/smithtimmytim) | [Blog](https://theboldreport.net)
