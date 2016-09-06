@@ -9,6 +9,10 @@ problem. Please check out the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file fo
 contributing.
 
 ## Speakers
+Camille Emefa Acey 
+VP Customer Success
+Clubhouse 
+[Blog] (http://medium.com/@kavbojka) | [Twitter](https://twitter.com/kavbojka) |
 
 Iheanyi Ekechukwu  
 Software Engineer  
