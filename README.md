@@ -26,3 +26,8 @@ Juan Soto
 Web Developer  
 [Website](http://juansoto.me) | [Twitter](https://twitter.com/_hooan) |
 [GitHub](https://github.com/sotojuan)
+
+Jonah Kirangi  
+Front-End Software Engineer  
+Remitly  
+[Website](http://www.jonahkirangi.com) | [Twitter](https://twitter.com/jonahkirangi) | [YouTube](https://www.youtube.com/user/jonahkirangi) | [GitHub](https://github.com/jonahkirangi)
