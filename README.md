@@ -129,3 +129,9 @@ Software Engineer
 Uptake  
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
+
+Ramesh Nair
+Full-stack developer
+HiddenTao
+[Website](https://hiddentao.com) | [Twitter](https://twitter.com/hiddentao) |
+[GitHub](https://github.com/hiddentao) | [Linkedin](https://www.linkedin.com/in/hiddentao)
