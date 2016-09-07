@@ -36,4 +36,4 @@ Gloria Kimbwala | Campus Technical Specialist | Square | [Twitter](https://twitt
 Patricia Realini | Software Engineer | Bustle | [Website](http://patriciarealini.com) / [Twitter](https://twitter.com/patriciarealini) / [GitHub](https://github.com/patriciarealini)  
 Jacky Alciné | Software Engineer that Uses a Afropick as His Leader Key | | [Website](https://jacky.wtf) / [Twitter](https://twitter.com/jackyalcine) / [Current Mood](http://black.af)  
 Michael Lancaster | Software Engineer | Uptake | [Website](http://bymichaellancaster.com) / [Twitter](https://twitter.com/weblancaster) / [GitHub](https://github.com/weblancaster)
-Ramesh Nair | Full-stack Developer | Freelance | [Website](https://hiddentao.com) / [Twitter](https://twitter.com/hiddentao) / [GitHub](https://github.com/hiddentao) / [Linked-in](https://www.linkedin.com/in/hiddentao)
+Ramesh Nair | Full-stack Developer | Freelance | [Website](https://hiddentao.com) / [Twitter](https://twitter.com/hiddentao) / [GitHub](https://github.com/hiddentao) / [LinkedIn](https://www.linkedin.com/in/hiddentao)
