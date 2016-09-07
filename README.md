@@ -101,9 +101,9 @@ Product Manager and Facilitator
 [Website](http://ruthmiller.net) | [Twitter](https://twitter.com/mcplanner) | [LinkedIn](https://linkedin.com/in/mcplanner)
 
 Lauren Tan  
-Señorita Software Engineer
+Senior Full Stack Engineer  
 Netflix  
-[Website](www.sugarpirate.com) | [Twitter](https://twitter.com/sugarpirate_) | [GitHub](https://github.com/poteto)  
+[Website](http://www.sugarpirate.com) | [Twitter](https://twitter.com/sugarpirate_) | [GitHub](https://github.com/poteto) | [LinkedIn](https://www.linkedin.com/in/laurenelizabethtan)  
 
 Lyn Muldrow  
 Technical Manager & Front-End Developer  
@@ -129,3 +129,88 @@ Software Engineer
 Uptake  
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
+
+Ron Bronson  
+Service Designer & UX Strategist  
+[Twitter] (http://twitter.com/ronbronson) | [Medium] (http://medium.com/@ronbronson) | 
+[Lanyrd] (http://lanyrd.com/profile/ronbronson/) | [Speakerdeck] (https://speakerdeck.com/ronbronson)
+
+Vasanth Krishnamoorthy  
+Sr. Front End Engineer  
+WalmartLabs  
+[Website](http://www.vasanthk.com/) | [Twitter](https://twitter.com/vasanth_k) |
+[GitHub](https://github.com/vasanthk)
+
+Karmen Blake  
+Software Engineer  
+https://www.usertesting.com  
+[Website](http://blog.dudeblake.com/) | [Twitter](https://twitter.com/kblake) |
+[GitHub](https://github.com/kblake)
+
+Timothy B. Smith   
+Frontend Designer   
+[Website](https://ttimsmith.com) | [Twitter](https://twitter.com/smithtimmytim) | [GitHub](https://github.com/smithtimmytim) | [Blog](https://theboldreport.net)
+
+Taylor Barnett  
+Developer Evangelist  
+Keen IO  
+[Twitter](https://twitter.com/taylor_atx) | [Website](http://taylorbar.net/) | [GitHub](https://github.com/tbarn)
+
+Camille Emefa Acey   
+VP Customer Success  
+Clubhouse  
+[Blog](http://medium.com/@kavbojka) | [Twitter](https://twitter.com/kavbojka)
+
+Rong Lu  
+Program Manager  
+Microsoft  
+[Channel9](https://channel9.msdn.com/Events/Speakers/rong-lu)| [Twitter](https://twitter.com/davorabbit)
+
+Guilherme (coder) de Souza  
+Product Engineer  
+Sprinklr  
+[Website](http://guisouza.github.io) | [Twitter](https://twitter.com/_gui_souza) |
+[GitHub](https://github.com/guisouza)
+
+Ivana McConnell  
+UI/UX Designer  
+Customer.io  
+[Website](http://ivanamcconnell.com) | [Twitter](https://twitter.com/ivanamcconnell) | [LinkedIn](https://www.linkedin.com/in/ivanamcconnell)
+
+Paul Anthony Webb  
+Front-End Designer & Developer  
+Queralt Inc  
+[Website](https://dsgn.io) | [Twitter](https://twitter.com/NetOpWibby) | [GitLab](https://paulwebb.software)
+
+Maria Naggaga  
+Program Manager  
+Microsoft  
+[Website](http://marianaggaga.com/) | [Twitter](https://twitter.com/LadyNaggaga) | [GitHub](https://github.com/LadyNaggaga) | [Art](http://ladynaggaga.tumblr.com/)
+
+Jennifer Wong  
+Software Engineer  
+Eventbrite  
+[Website](http://mochimachine.org/) | [Twitter](https://twitter.com/mybluewristband) |
+[GitHub](https://github.com/jennz0r)
+
+Serena Chen  
+Designer  
+[Website](http://serena.nz) | [Twitter](https://twitter.com/sereeena) |
+[GitHub](https://github.com/heisenburger)
+
+Sonya Mann  
+Writer & Analyst  
+Independent  
+[Website](https://www.sonyaellenmann.com/) | [Twitter](https://twitter.com/sonyaellenmann) | [GitHub](https://github.com/sonyamann) | [Past Talks](https://www.sonyaellenmann.com/tag/talks)
+
+Ramesh Nair  
+Full-stack developer  
+HiddenTao  
+[Website](https://hiddentao.com) | [Twitter](https://twitter.com/hiddentao) |
+[GitHub](https://github.com/hiddentao) | [Linkedin](https://www.linkedin.com/in/hiddentao)
+
+Terri Burns  
+Associate Product Manager  
+Twitter  
+[Website](http://tcburning.com) | [Twitter](https://twitter.com/tcburning) |
+[GitHub](https://github.com/terriburns)
