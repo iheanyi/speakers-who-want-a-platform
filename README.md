@@ -100,10 +100,10 @@ Ruth Miller
 Product Manager and Facilitator  
 [Website](http://ruthmiller.net) | [Twitter](https://twitter.com/mcplanner) | [LinkedIn](https://linkedin.com/in/mcplanner)
 
-Lauren Tan  
-Señorita Software Engineer
-Netflix  
-[Website](www.sugarpirate.com) | [Twitter](https://twitter.com/sugarpirate_) | [GitHub](https://github.com/poteto)  
+Lauren Tan
+Senior Full Stack Engineer
+Netflix
+[Website](http://www.sugarpirate.com) | [Twitter](https://twitter.com/sugarpirate_) | [GitHub](https://github.com/poteto) | [LinkedIn](https://www.linkedin.com/in/laurenelizabethtan)  
 
 Lyn Muldrow  
 Technical Manager & Front-End Developer  
