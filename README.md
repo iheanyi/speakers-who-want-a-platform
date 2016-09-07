@@ -214,3 +214,10 @@ Associate Product Manager
 Twitter  
 [Website](http://tcburning.com) | [Twitter](https://twitter.com/tcburning) |
 [GitHub](https://github.com/terriburns)
+
+Atif Azam
+Product Designer
+MongoDB
+[Website](http://atifaz.am) | [Twitter](http://www.twitter.com/atifazm) |
+[GitHub](http://www.github.com/atifazam)
+
