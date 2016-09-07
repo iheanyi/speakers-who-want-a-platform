@@ -214,3 +214,8 @@ Associate Product Manager
 Twitter  
 [Website](http://tcburning.com) | [Twitter](https://twitter.com/tcburning) |
 [GitHub](https://github.com/terriburns)
+
+Jennifer Refat
+Software Engineer
+[Website](http://jenrefat.com) | [Twitter](https://twitter.com/mellowbeing) |
+[Github](http://github.com/mellowbeing)
