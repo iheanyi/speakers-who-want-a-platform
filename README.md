@@ -129,3 +129,8 @@ Software Engineer
 Uptake  
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
+
+Paul Anthony Webb  
+Front-End Designer & Developer  
+Queralt Inc  
+[Website](https://dsgn.io) | [Twitter](https://twitter.com/NetOpWibby) | [GitLab](https://paulwebb.software)
