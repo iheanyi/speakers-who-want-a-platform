@@ -129,3 +129,7 @@ Software Engineer
 Uptake  
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
+
+Serena Chen
+Designer
+[Website](http://serena.nz) | [Twitter](https://twitter.com/sereeena) | [Github](https://github.com/heisenburger)
