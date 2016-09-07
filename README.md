@@ -129,3 +129,9 @@ Software Engineer
 Uptake  
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
+
+Jennifer Wong  
+Software Engineer  
+Eventbrite  
+[Website](http://mochimachine.org/) | [Twitter](https://twitter.com/mybluewristband) |
+[GitHub](https://github.com/jennz0r)
