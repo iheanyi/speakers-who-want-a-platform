@@ -214,3 +214,9 @@ Associate Product Manager
 Twitter  
 [Website](http://tcburning.com) | [Twitter](https://twitter.com/tcburning) |
 [GitHub](https://github.com/terriburns)
+
+Steve Lacy  
+Full-stack developer & Security researcher  
+Fact0ry / Independent   
+[Website](http://slacy.me) | [Twitter](https://twitter.com/stevedelacy) | 
+[Github](https://github.com/stevelacy)
