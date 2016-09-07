@@ -214,3 +214,9 @@ Associate Product Manager
 Twitter  
 [Website](http://tcburning.com) | [Twitter](https://twitter.com/tcburning) |
 [GitHub](https://github.com/terriburns)
+
+Megan Tiu  
+Software Engineer  
+CallRail  
+[Website](http://megantiu.com) | [Twitter](https://twitter.com/megandtiu) |
+[GitHub](https://github.com/megantiu) | [LinkedIn](https://www.linkedin.com/megantiu)
