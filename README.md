@@ -129,3 +129,8 @@ Software Engineer
 Uptake  
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
+
+Maria Naggaga</br>
+Program Manager</br>
+Microsoft</br>
+[Website](http://marianaggaga.com/) | [Twitter](https://twitter.com/LadyNaggaga) | [GitHub](https://github.com/LadyNaggaga) | [Art](http://ladynaggaga.tumblr.com/)
