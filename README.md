@@ -129,3 +129,9 @@ Software Engineer
 Uptake  
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
+
+Terri Burns
+Associate Product Manager
+Twitter
+[Website](http://tcburning.com) | [Twitter](https://twitter.com/tcburning) |
+[GitHub](https://github.com/terriburns)
