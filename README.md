@@ -129,3 +129,8 @@ Software Engineer
 Uptake  
 [Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
 [GitHub](https://github.com/weblancaster)
+
+Sonya Mann
+Writer & Analyst
+Independent
+[Website](https://www.sonyaellenmann.com/) | [Twitter](https://twitter.com/sonyaellenmann) | [GitHub](https://github.com/sonyamann) | [Past Talks](https://www.sonyaellenmann.com/tag/talks)
