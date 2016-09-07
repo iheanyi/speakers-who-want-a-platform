@@ -214,3 +214,10 @@ Associate Product Manager
 Twitter  
 [Website](http://tcburning.com) | [Twitter](https://twitter.com/tcburning) |
 [GitHub](https://github.com/terriburns)
+
+Christina Truong  
+Front-end Developer & Tech Educator  
+Independent  
+[Website](http://christinatruong.com) | [Twitter](https://twitter.com/christinatruong) |
+[GitHub](https://github.com/christinatruong)
+
