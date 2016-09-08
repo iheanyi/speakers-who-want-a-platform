@@ -214,3 +214,48 @@ Associate Product Manager
 Twitter  
 [Website](http://tcburning.com) | [Twitter](https://twitter.com/tcburning) |
 [GitHub](https://github.com/terriburns)
+
+Christina Truong  
+Front-end Developer & Tech Educator  
+Independent  
+[Website](http://christinatruong.com) | [Twitter](https://twitter.com/christinatruong) |
+[GitHub](https://github.com/christinatruong)
+
+Megan Tiu  
+Software Engineer  
+CallRail  
+[Website](http://megantiu.com) | [Twitter](https://twitter.com/megandtiu) |
+[GitHub](https://github.com/megantiu) | [LinkedIn](https://www.linkedin.com/megantiu)
+
+Jennifer Refat  
+Software Engineer  
+[Website](http://jenrefat.com) | [Twitter](https://twitter.com/mellowbeing) |
+[Github](http://github.com/mellowbeing)
+
+Kimberly Muñoz  
+Front End Web Developer  
+[Website](http://www.kimberlymunoz.com) | [Twitter](http://twitter.com/kimberlymunoz) | [Github](http://www.github.com/kimberlymunoz)
+
+Steve Lacy  
+Full-stack developer & Security researcher  
+Fact0ry / Independent   
+[Website](http://slacy.me) | [Twitter](https://twitter.com/stevedelacy) | 
+[Github](https://github.com/stevelacy)
+
+Atif Azam  
+Product Designer  
+MongoDB  
+[Website](http://atifaz.am) | [Twitter](http://www.twitter.com/atifazm) |
+[GitHub](http://www.github.com/atifazam)
+
+Irfan Ahmad  
+Lead QA Engineer   
+Upgrad.com   
+[Website](http://critick.io) | [Twitter](https://twitter.com/notimewaste) |
+[GitHub](https://github.com/irfanah)
+
+Idmar Ramos Junior (Id)  
+UX Designer  
+Booking.com  
+[Website](http://id.etc.br) | [Twitter](https://twitter.com/idmarjr) | [GitHub](https://github.com/idmarjr) | [Speaker Deck](https://speakerdeck.com/idmarjr)  
+
