@@ -259,3 +259,8 @@ UX Designer
 Booking.com  
 [Website](http://id.etc.br) | [Twitter](https://twitter.com/idmarjr) | [GitHub](https://github.com/idmarjr) | [Speaker Deck](https://speakerdeck.com/idmarjr)  
 
+Marla Brizel
+Software Developer
+Democracy Works
+[Website](http://www.marlabrizel.com) | [Twitter](https://twitter.com/marlabrizel) |
+[GitHub](https://github.com/marlabrizel)
