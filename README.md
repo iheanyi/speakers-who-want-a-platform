@@ -132,7 +132,7 @@ Uptake
 
 Ron Bronson  
 Service Designer & UX Strategist  
-[Twitter] (http://twitter.com/ronbronson) | [Medium] (http://medium.com/@ronbronson) | 
+[Twitter] (http://twitter.com/ronbronson) | [Medium] (http://medium.com/@ronbronson) |
 [Lanyrd] (http://lanyrd.com/profile/ronbronson/) | [Speakerdeck] (https://speakerdeck.com/ronbronson)
 
 Vasanth Krishnamoorthy  
@@ -214,3 +214,9 @@ Associate Product Manager
 Twitter  
 [Website](http://tcburning.com) | [Twitter](https://twitter.com/tcburning) |
 [GitHub](https://github.com/terriburns)
+
+Irfan Ahmad  
+Lead QA Engineer   
+Upgrad.com   
+[Website](http://critick.io) | [Twitter](https://twitter.com/notimewaste) |
+[GitHub](https://github.com/irfanah)
