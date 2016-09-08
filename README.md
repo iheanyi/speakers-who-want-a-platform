@@ -214,3 +214,8 @@ Associate Product Manager
 Twitter  
 [Website](http://tcburning.com) | [Twitter](https://twitter.com/tcburning) |
 [GitHub](https://github.com/terriburns)
+
+Idmar Ramos Junior (Id)  
+UX Designer  
+Booking.com  
+[Website](http://id.etc.br) | [Twitter](https://twitter.com/idmarjr) | [GitHub](https://github.com/idmarjr) | [Speaker Deck](https://speakerdeck.com/idmarjr)  
