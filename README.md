@@ -214,3 +214,9 @@ Associate Product Manager
 Twitter  
 [Website](http://tcburning.com) | [Twitter](https://twitter.com/tcburning) |
 [GitHub](https://github.com/terriburns)
+
+Anton Babenko  
+Software engineer  
+Independent  
+[Blog](http://blog.antonbabenko.com) | [Twitter](https://twitter.com/antonbabenko) |
+[GitHub](https://github.com/antonbabenko) | [Linkedin](https://www.linkedin.com/in/antonbabenko) | [Slideshare](http://www.slideshare.net/AntonBabenko)
