@@ -259,3 +259,7 @@ UX Designer
 Booking.com  
 [Website](http://id.etc.br) | [Twitter](https://twitter.com/idmarjr) | [GitHub](https://github.com/idmarjr) | [Speaker Deck](https://speakerdeck.com/idmarjr)  
 
+Mike McGarr
+Engineering Manager, Developer Productivity & Insight
+Netflix
+[Website](http://www.mikemcgarr.com) | [Twitter](http://www.twitter.com/SonOfGarr) | [Github](https://github.com/jmcgarr) | [Slideshare](http://www.slideshare.net/jmcgarr/presentations)
