@@ -259,7 +259,7 @@ UX Designer
 Booking.com  
 [Website](http://id.etc.br) | [Twitter](https://twitter.com/idmarjr) | [GitHub](https://github.com/idmarjr) | [Speaker Deck](https://speakerdeck.com/idmarjr)  
 
-Kim Crayton
-Business Relationship Strategist 
-Kim Crayton LLC
-[Website](KimCrayton.com)(JrDevMentoring.com) | [Twitter](https://twitter.com/KimCrayton1)(http://twitter.com/JrDevMentoring) | [Blog](https://medium.com/@KimCrayton1) [YouTube](https://www.youtube.com/playlist?list=PLEJ1RnaQ_swh7wiD80NSSLu8UrOv3DiQ6)
+Kim Crayton<br>
+Business Relationship Strategist <br>
+Kim Crayton LLC<br>
+[Website](http://KimCrayton.com) | [Website](http://JrDevMentoring.com) | [Twitter](https://twitter.com/KimCrayton1) | [Twitter](http://twitter.com/JrDevMentoring) | [Blog](https://medium.com/@KimCrayton1) | [Previous Presentations](https://www.youtube.com/playlist?list=PLEJ1RnaQ_swh7wiD80NSSLu8UrOv3DiQ6)
