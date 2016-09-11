@@ -257,5 +257,10 @@ Upgrad.com
 Idmar Ramos Junior (Id)  
 UX Designer  
 Booking.com  
-[Website](http://id.etc.br) | [Twitter](https://twitter.com/idmarjr) | [GitHub](https://github.com/idmarjr) | [Speaker Deck](https://speakerdeck.com/idmarjr)  
+[Website](http://id.etc.br) | [Twitter](https://twitter.com/idmarjr) | [GitHub](https://github.com/idmarjr) | [Speaker Deck](https://speakerdeck.com/idmarjr)
+
+Princiya Marina Sequeira  
+Software Engineer FrontEnd  
+Zalando, Berlin  
+[Website](princiya777.wordpress.com) | [Twitter](https://twitter.com/princi_ya) | [GitHub](https://github.com/princiya)
 
