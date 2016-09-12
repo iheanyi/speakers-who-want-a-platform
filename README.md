@@ -259,3 +259,7 @@ UX Designer
 Booking.com  
 [Website](http://id.etc.br) | [Twitter](https://twitter.com/idmarjr) | [GitHub](https://github.com/idmarjr) | [Speaker Deck](https://speakerdeck.com/idmarjr)  
 
+Sumana Harihareswara
+Founder, open source expert and maintainer
+Changeset Consulting
+[Website](https://www.changeset.nyc) | [Twitter](https://twitter.com/brainwane) | [GitHub](https://github.com/brainwane) | [Past talks](http://www.harihareswara.net/talks.html) | [Blog](http://www.harihareswara.net/ces.shtml)
