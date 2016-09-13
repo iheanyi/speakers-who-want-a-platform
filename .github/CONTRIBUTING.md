@@ -8,4 +8,4 @@ that follows the PR formatting. Sometimes if the group one is a part of isn't re
 # Code of Conduct
 
 All pull requests and issues must follow the [Code of
-Conduct](CODE_OF_CONDUCT.md).
+Conduct](/CODE_OF_CONDUCT.md).
