@@ -13,6 +13,7 @@ contributing.
 Iheanyi Ekechukwu  
 Software Engineer  
 DigitalOcean  
+New York City  
 [Website](http://iheanyi.com) | [Twitter](https://twitter.com/kwuchu) |
 [GitHub](https://github.com/iheanyi)
 
