@@ -260,3 +260,7 @@ UX Designer
 Booking.com  
 [Website](http://id.etc.br) | [Twitter](https://twitter.com/idmarjr) | [GitHub](https://github.com/idmarjr) | [Speaker Deck](https://speakerdeck.com/idmarjr)  
 
+Emily Dowdle  
+Software Engineer  
+Wazee Digital  
+[Website](http://emilydowdle.com) | [Twitter](https://twitter.com/editingemily) | [GitHub](https://github.com/emilydowdle) | [Conference Talks](http://emilydowdle.com/talks)
