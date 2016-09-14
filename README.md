@@ -133,7 +133,7 @@ Uptake
 
 Ron Bronson  
 Service Designer & UX Strategist  
-[Twitter] (http://twitter.com/ronbronson) | [Medium] (http://medium.com/@ronbronson) | 
+[Twitter] (http://twitter.com/ronbronson) | [Medium] (http://medium.com/@ronbronson) |
 [Lanyrd] (http://lanyrd.com/profile/ronbronson/) | [Speakerdeck] (https://speakerdeck.com/ronbronson)
 
 Vasanth Krishnamoorthy  
@@ -240,7 +240,7 @@ Front End Web Developer
 Steve Lacy  
 Full-stack developer & Security researcher  
 Fact0ry / Independent   
-[Website](http://slacy.me) | [Twitter](https://twitter.com/stevedelacy) | 
+[Website](http://slacy.me) | [Twitter](https://twitter.com/stevedelacy) |
 [Github](https://github.com/stevelacy)
 
 Atif Azam  
@@ -260,3 +260,7 @@ UX Designer
 Booking.com  
 [Website](http://id.etc.br) | [Twitter](https://twitter.com/idmarjr) | [GitHub](https://github.com/idmarjr) | [Speaker Deck](https://speakerdeck.com/idmarjr)  
 
+Lovisa Svallingson  
+Software Engineer  
+CA Technologies (Rally Software)  
+[Website](http://lovisa.io) | [Twitter](https://twitter.com/applegrain) | [GitHub](https://github.com/applegrain) |
