@@ -260,3 +260,7 @@ UX Designer
 Booking.com  
 [Website](http://id.etc.br) | [Twitter](https://twitter.com/idmarjr) | [GitHub](https://github.com/idmarjr) | [Speaker Deck](https://speakerdeck.com/idmarjr)  
 
+Stacey Haffner  
+Program Manager | Co-Founder/Developer   
+Microsoft | What Up Games, LLC  
+[Twitter](https://twitter.com/yecats131) | [GitHub](https://github.com/staceyhaffner) | [Channel 9](https://channel9.msdn.com/Search?term=stacey%20haffner#ch9Search) | [Website](www.whatupgames.com)
