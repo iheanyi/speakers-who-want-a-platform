@@ -326,3 +326,9 @@ Zach Carter
 Founder & Design Engineer  
 [Website](http://zaa.ch) | [Twitter](https://twitter.com/zii) |
 [GitHub](https://github.com/zaach) | [LinkedIn](http://linkedin.com/in/zachcarter)
+
+Tracy Levesque 
+Founder & Front-End Developer
+YIKES, Inc.
+[YIKES, Inc](https://www.yikesinc.com/) | [Website](https://www.thetracyl.com/) | [Twitter](https://twitter.com/LilJimmi) |
+[GitHub](https://github.com/TheTracyL) | [LinkedIn](https://www.linkedin.com/in/tracylevesque)
