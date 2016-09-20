@@ -10,13 +10,11 @@
 </head>
 <body lang="en">
 
-{{.Render "section"}}
-
 <section id="main">
   <h1>Content</h1>
   <div>
-    {{ range first 10 .Data.Speaker }}
-      {{ .Content }}
+    {{ range first 10 .Data.Pages }}
+      {{ .Render "li" }}
     {{ end }}
   </div>
 </section>
