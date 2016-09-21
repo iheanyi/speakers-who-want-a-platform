@@ -5,7 +5,7 @@ date = "2016-09-19T21:21:09-04:00"
 location = "New York, NY"
 name = "Iheanyi Ekechukwu"
 subjects = ["JavaScript", "Ember.js", "DevOps", "Design", "Design and Development"]
-title = "iheanyi ekechukwu"
+title = "Iheanyi Ekechukwu"
 
 [[social_links]]
   name = "Website"
