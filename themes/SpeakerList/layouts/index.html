@@ -10,15 +10,35 @@
     <script src="/js/app.js"></script>
   </head>
   <body lang="en">
+    <div class="pt4 ph4 w-100">
+      <span class="f4">Speakers Who Want a Platform</span>
+    </div>
 
-    <section id="main">
-      <h1>Content</h1>
-      <div>
-        {{ range first 10 .Data.Pages }}
+    <div class="mt4 ph4">
+      <div class="measure">
+        <h1>Purpose</h1>
+        <p>Often people say that they cannot find speakers from underrepresented
+        groups, whether it's black people, LGBT individuals, women, or others.
+        This wbesite exists to serve as an easy way to find people from these
+        groups and extend invitations to them to come and speak at your
+        conferences or events.</p>
+      </div>
+    </div>
+
+    <div class="mt2 ph4">
+      <h1>Speakers</h1>
+      <div class="dib">
+        {{ range .Data.Pages }}
         {{ .Render "li" }}
         {{ end }}
       </div>
-    </section>
+    </div>
+
+    <div class="mt2 ph4">
+      <h1>Contributing</h1>
+      <p>Add some guidelines for contributing here. Probably will make it
+      it's own page as well.</p>
+    </div>
 
     {{ partial "footer.html" . }}
   </body>
