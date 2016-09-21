@@ -1,1 +1,6 @@
 public/
+
+*.swp
+*.swo
+node_modules/
+bower_components/
