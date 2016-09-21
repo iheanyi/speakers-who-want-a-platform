@@ -320,3 +320,9 @@ Zach Carter
 Founder & Design Engineer  
 [Website](http://zaa.ch) | [Twitter](https://twitter.com/zii) |
 [GitHub](https://github.com/zaach) | [LinkedIn](http://linkedin.com/in/zachcarter)
+
+Anjuan Simmons   
+Technical Program Manager   
+[Assemble Systems](http://assemblesystems.com/)  
+[Website](http://www.AnjuanSimmons.com) | [My Talks] (http://www.anjuansimmons.com/my-talks) | [Book Me] (http://www.anjuansimmons.com/book-me) | [Contact Me] (http://www.anjuansimmons.com/contact)    
+[Twitter](https://twitter.com/anjuan) | [GitHub](https://github.com/anjuan) | [LinkedIn](http://linkedin.com/in/anjuan)
