@@ -287,10 +287,10 @@ Program Manager | Co-Founder/Developer
 Microsoft | What Up Games, LLC  
 [Twitter](https://twitter.com/yecats131) | [GitHub](https://github.com/staceyhaffner) | [Channel 9](https://channel9.msdn.com/Search?term=stacey%20haffner#ch9Search) | [Website](www.whatupgames.com)  
 
-Jamie Chung
-Engineer
-Dropbox
-[Website](http://jamiechu.ng) | [Twitter](https://twitter.com/attnjamie) | [GitHub](https://github.com/attnjamie) | [LinkedIn](https://www.linkedin.com/in/attnjamie)
+Jamie Chung  
+Engineer  
+Dropbox  
+[Website](http://jamiechu.ng) | [Twitter](https://twitter.com/attnjamie) | [GitHub](https://github.com/attnjamie) | [LinkedIn](https://www.linkedin.com/in/attnjamie)  
 
 Mike McGarr
 Engineering Manager, Developer Productivity & Insight
