@@ -292,9 +292,9 @@ Engineer
 Dropbox  
 [Website](http://jamiechu.ng) | [Twitter](https://twitter.com/attnjamie) | [GitHub](https://github.com/attnjamie) | [LinkedIn](https://www.linkedin.com/in/attnjamie)  
 
-Mike McGarr
-Engineering Manager, Developer Productivity & Insight
-Netflix
+Mike McGarr  
+Engineering Manager, Developer Productivity & Insight  
+Netflix  
 [Website](http://www.mikemcgarr.com) | [Twitter](http://www.twitter.com/SonOfGarr) | [Github](https://github.com/jmcgarr) | [Slideshare](http://www.slideshare.net/jmcgarr/presentations)
 
 Princiya Marina Sequeira  
@@ -311,9 +311,9 @@ Courtney Wilburn
 Back-End Developer/Programmer  
 [O3 World] (https://o3world.com) | [Website](https://portfolio.cjwilburn.com) | [Twitter](https://twitter.com/cjwilburn) | [GitHub](https://github.com/cjwilburn)
 
-Sumana Harihareswara
-Founder, open source expert and maintainer
-Changeset Consulting
+Sumana Harihareswara  
+Founder, open source expert and maintainer  
+Changeset Consulting  
 [Website](https://www.changeset.nyc) | [Twitter](https://twitter.com/brainwane) | [GitHub](https://github.com/brainwane) | [Past talks](http://www.harihareswara.net/talks.html) | [Blog](http://www.harihareswara.net/ces.shtml)
 
 Zach Carter  
@@ -326,3 +326,8 @@ Technical Program Manager
 [Assemble Systems](http://assemblesystems.com/)  
 [Website](http://www.AnjuanSimmons.com) | [My Talks] (http://www.anjuansimmons.com/my-talks) | [Book Me] (http://www.anjuansimmons.com/book-me) | [Contact Me] (http://www.anjuansimmons.com/contact)    
 [Twitter](https://twitter.com/anjuan) | [GitHub](https://github.com/anjuan) | [LinkedIn](http://linkedin.com/in/anjuan)
+
+Jack Tarantino  
+Lead Software Engineer  
+InRhythm  
+[Website](https://jack.ofspades.com) | [Twitter](https://twitter.com/jacopotarantino) | [GitHub](https://github.com/jacopotarantino)
