@@ -326,3 +326,7 @@ Technical Program Manager
 [Assemble Systems](http://assemblesystems.com/)  
 [Website](http://www.AnjuanSimmons.com) | [My Talks] (http://www.anjuansimmons.com/my-talks) | [Book Me] (http://www.anjuansimmons.com/book-me) | [Contact Me] (http://www.anjuansimmons.com/contact)    
 [Twitter](https://twitter.com/anjuan) | [GitHub](https://github.com/anjuan) | [LinkedIn](http://linkedin.com/in/anjuan)
+
+Lizzie Siegle
+Technical Evangelist, Writer
+[Website](http://elizabethsiegle.github.io) | [Twitter](http://twitter.com/lizziepika) | [GitHub](http://github.com/elizabethsiegle) | [LinkedIn](http://linkedin.com/in/elsiegle) | [Blog](http://medium.com/@lizziepika)
