@@ -326,3 +326,7 @@ Technical Program Manager
 [Assemble Systems](http://assemblesystems.com/)  
 [Website](http://www.AnjuanSimmons.com) | [My Talks] (http://www.anjuansimmons.com/my-talks) | [Book Me] (http://www.anjuansimmons.com/book-me) | [Contact Me] (http://www.anjuansimmons.com/contact)    
 [Twitter](https://twitter.com/anjuan) | [GitHub](https://github.com/anjuan) | [LinkedIn](http://linkedin.com/in/anjuan)
+
+Maia Bittner
+Co-founder
+[Website](www.maiabittner.com) | [Twitter](www.twitter.com/maiab) | [LinkedIn](www.linkedin.com/in/maiabittner)
