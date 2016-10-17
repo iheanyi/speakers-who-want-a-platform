@@ -44,8 +44,8 @@ ISL
 
 Emmanuel Obi  
 Software Engineer  
-[5th Column](http://5thcolumn.net/)
-[Website](http://withtwoemms@github.io) | [Twitter](https://twitter.com/manualautomaton) |
+[5th Column](http://5thcolumn.net/) |
+[Website](https://withtwoemms.github.io) | [Twitter](https://twitter.com/manualautomaton) |
 [Github-personal](https://github.com/withtwoemms) |
 [Github-pro](https://github.com/emmanuellyautomated)
 
