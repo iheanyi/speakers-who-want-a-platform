@@ -5,7 +5,7 @@ Often, we find speaker lists or panels at conferences and other events that lack
 people from underrepresented groups. At times, we hear the excuse that there
 aren't enough people from underrepresented groups to reach out to or that they
 couldn't find any that wanted to participate.  This list aims to fix that
-problem. 
+problem.
 
 Everyone who wants to speak should consider adding themselves if you identify as part of an underrepresented group. Everyone's experiences matter and should be heard - no matter your skill level, title, role, etc. Please check out the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for guidelines for contributing.
 
@@ -133,7 +133,7 @@ Uptake
 
 Ron Bronson  
 Service Designer & UX Strategist  
-[Twitter] (http://twitter.com/ronbronson) | [Medium] (http://medium.com/@ronbronson) | 
+[Twitter] (http://twitter.com/ronbronson) | [Medium] (http://medium.com/@ronbronson) |
 [Lanyrd] (http://lanyrd.com/profile/ronbronson/) | [Speakerdeck] (https://speakerdeck.com/ronbronson)
 
 Vasanth Krishnamoorthy  
@@ -240,7 +240,7 @@ Front End Web Developer
 Steve Lacy  
 Full-stack developer & Security researcher  
 Fact0ry / Independent   
-[Website](http://slacy.me) | [Twitter](https://twitter.com/stevedelacy) | 
+[Website](http://slacy.me) | [Twitter](https://twitter.com/stevedelacy) |
 [Github](https://github.com/stevelacy)
 
 Atif Azam  
@@ -292,10 +292,10 @@ Engineer
 Dropbox  
 [Website](http://jamiechu.ng) | [Twitter](https://twitter.com/attnjamie) | [GitHub](https://github.com/attnjamie) | [LinkedIn](https://www.linkedin.com/in/attnjamie)  
 
-Mike McGarr
-Engineering Manager, Developer Productivity & Insight
-Netflix
-[Website](http://www.mikemcgarr.com) | [Twitter](http://www.twitter.com/SonOfGarr) | [Github](https://github.com/jmcgarr) | [Slideshare](http://www.slideshare.net/jmcgarr/presentations)
+Mike McGarr  
+Engineering Manager, Developer Productivity & Insight  
+Netflix  
+[Website](http://www.mikemcgarr.com) | [Twitter](http://www.twitter.com/SonOfGarr) | [Github](https://github.com/jmcgarr) | [Slideshare](http://www.slideshare.net/jmcgarr/presentations)  
 
 Princiya Marina Sequeira  
 Software Engineer FrontEnd  
@@ -309,17 +309,17 @@ Kim Crayton LLC
 
 Courtney Wilburn  
 Back-End Developer/Programmer  
-[O3 World] (https://o3world.com) | [Website](https://portfolio.cjwilburn.com) | [Twitter](https://twitter.com/cjwilburn) | [GitHub](https://github.com/cjwilburn)
+[O3 World] (https://o3world.com) | [Website](https://portfolio.cjwilburn.com) | [Twitter](https://twitter.com/cjwilburn) | [GitHub](https://github.com/cjwilburn)  
 
-Sumana Harihareswara
-Founder, open source expert and maintainer
-Changeset Consulting
-[Website](https://www.changeset.nyc) | [Twitter](https://twitter.com/brainwane) | [GitHub](https://github.com/brainwane) | [Past talks](http://www.harihareswara.net/talks.html) | [Blog](http://www.harihareswara.net/ces.shtml)
+Sumana Harihareswara  
+Founder, open source expert and maintainer  
+Changeset Consulting  
+[Website](https://www.changeset.nyc) | [Twitter](https://twitter.com/brainwane) | [GitHub](https://github.com/brainwane) | [Past talks](http://www.harihareswara.net/talks.html) | [Blog](http://www.harihareswara.net/ces.shtml)  
 
 Zach Carter  
 Founder & Design Engineer  
 [Website](http://zaa.ch) | [Twitter](https://twitter.com/zii) |
-[GitHub](https://github.com/zaach) | [LinkedIn](http://linkedin.com/in/zachcarter)
+[GitHub](https://github.com/zaach) | [LinkedIn](http://linkedin.com/in/zachcarter)  
 
 Anjuan Simmons   
 Technical Program Manager   
@@ -327,6 +327,12 @@ Technical Program Manager
 [Website](http://www.AnjuanSimmons.com) | [My Talks] (http://www.anjuansimmons.com/my-talks) | [Book Me] (http://www.anjuansimmons.com/book-me) | [Contact Me] (http://www.anjuansimmons.com/contact)    
 [Twitter](https://twitter.com/anjuan) | [GitHub](https://github.com/anjuan) | [LinkedIn](http://linkedin.com/in/anjuan)
 
-Asia Hoe
-Product Designer
-[Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
+Asia Hoe  
+Product Designer  
+[Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)  
+
+Sarah Federman  
+UI Engineer  
+LinkedIn  
+[Website](http://sarah.codes) | [Twitter](https://twitter.com/sarah_federman) |
+[GitHub](https://github.com/sarahbethfederman) | [LinkedIn](http://linkedin.com/in/sarahfederman)  
