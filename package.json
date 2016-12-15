@@ -33,6 +33,7 @@
     "webpack": "^1.13.2"
   },
   "dependencies": {
+    "event-stream": "^3.3.4",
     "tachyons": "^4.5.2"
   }
 }
