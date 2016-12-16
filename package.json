@@ -5,7 +5,8 @@
   "main": "js/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "parse": "node scripts/parse-speakers.js"
+    "parse": "node scripts/parse-speakers.js",
+    "start": "hugo server"
   },
   "repository": {
     "type": "git",
@@ -35,6 +36,7 @@
   },
   "dependencies": {
     "event-stream": "^3.3.4",
+    "mkdirp": "^0.5.1",
     "slug": "^0.9.1",
     "tachyons": "^4.5.2"
   }

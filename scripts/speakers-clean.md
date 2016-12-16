@@ -1,3 +1,4 @@
+
 Iheanyi Ekechukwu  
 Software Engineer  
 DigitalOcean  
@@ -109,7 +110,7 @@ Uptake
 
 Ron Bronson  
 Service Designer & UX Strategist  
-[Twitter] (http://twitter.com/ronbronson) | [Medium] (http://medium.com/@ronbronson) | 
+[Twitter] (http://twitter.com/ronbronson) | [Medium] (http://medium.com/@ronbronson) |
 [Lanyrd] (http://lanyrd.com/profile/ronbronson/) | [Speakerdeck] (https://speakerdeck.com/ronbronson)
 
 Vasanth Krishnamoorthy  

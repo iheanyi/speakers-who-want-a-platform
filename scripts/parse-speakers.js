@@ -5,6 +5,7 @@ const fs = require('fs')
 const path = require('path')
 const es = require('event-stream')
 const slug = require('slug')
+const mkdirp = require('mkdirp')
 
 // Read the "cleaned" version of the speaker readme
 fs.createReadStream('./scripts/speakers-clean.md')
@@ -44,10 +45,9 @@ fs.createReadStream('./scripts/speakers-clean.md')
  */
 function buildSpeaker(data) {
   const company = data.company || ''
-  const obj = {
-    data
-  }
-  let buff = ['+++',
+  const obj = { data }
+  let buff = [
+    '+++',
     'bio = ""',
     `company = "${company}"`,
     `date = "${new Date().toISOString()}"`,
@@ -82,15 +82,29 @@ function buildSpeaker(data) {
  * @description Writes a speaker's info to their own markdown file
  */
 function writeSpeakerFile(speaker, callback) {
-  const filename = slug(`${speaker.data.name}-${speaker.data.title}`)
+	const baseDir = './content/speaker'
+  const filename = slug(`${speaker.data.name}`)
     .toLowerCase()
-  const file = path.resolve('./content/speaker/', filename)
-  fs.writeFile(`${file}.md`, speaker.markdown, { flag: 'w', }, (err) => {
-    if (err) {
-      return callback(err)
-    }
-    callback()
-  })
+  let file = path.resolve('./content/speaker/', filename)
+	// Create the content/speaker dir if it does not already exist
+	mkdirp.sync(baseDir)
+
+	fs.stat(`${file}.md`, function(err, stats) {
+		if (err) {
+			callback(err)
+		}
+		// If a file of the same name exists, append a date
+		if (stats && stats.isFile()) {
+			file += `-${Date.now()}`
+		}
+
+		fs.writeFile(`${file}.md`, speaker.markdown, { flag: 'w', }, (err) => {
+	    if (err) {
+	      return callback(err)
+	    }
+	    callback()
+	  })
+	})
 }
 
 /**
