@@ -1,5 +1,5 @@
 public/
-
+.DS_Store
 *.swp
 *.swo
 node_modules/

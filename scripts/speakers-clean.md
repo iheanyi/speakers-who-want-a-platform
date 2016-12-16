@@ -1,19 +1,16 @@
 Iheanyi Ekechukwu  
 Software Engineer  
 DigitalOcean  
-[Website](http://iheanyi.com) | [Twitter](https://twitter.com/kwuchu) |
-[GitHub](https://github.com/iheanyi)
+[Website](http://iheanyi.com) | [Twitter](https://twitter.com/kwuchu) | [GitHub](https://github.com/iheanyi)
 
 Ben Ilegbodu  
 Lead UI Engineer  
 Eventbrite  
-[Blog](http://www.benmvp.com) | [Twitter](https://twitter.com/benmvp) |
-[GitHub](https://github.com/benmvp)
+[Blog](http://www.benmvp.com) | [Twitter](https://twitter.com/benmvp) | [GitHub](https://github.com/benmvp)
 
 Juan Soto  
 Web Developer  
-[Website](http://juansoto.me) | [Twitter](https://twitter.com/_hooan) |
-[GitHub](https://github.com/sotojuan)
+[Website](http://juansoto.me) | [Twitter](https://twitter.com/_hooan) | [GitHub](https://github.com/sotojuan)
 
 Susan Lin   
 Product Designer  
@@ -32,21 +29,17 @@ ISL
 Emmanuel Obi  
 Software Engineer  
 [5th Column](http://5thcolumn.net/)
-[Website](http://withtwoemms@github.io) | [Twitter](https://twitter.com/manualautomaton) |
-[Github-personal](https://github.com/withtwoemms) |
-[Github-pro](https://github.com/emmanuellyautomated)
+[Website](http://withtwoemms@github.io) | [Twitter](https://twitter.com/manualautomaton) | [Github-personal](https://github.com/withtwoemms) | [Github-pro](https://github.com/emmanuellyautomated)
 
 Hardy Jones   
 Software Engineer  
 NoRedInk  
-[Website](http://joneshf.github.io/) | [Twitter](https://twitter.com/st58) |
-[GitHub](https://github.com/joneshf/)
+[Website](http://joneshf.github.io/) | [Twitter](https://twitter.com/st58) | [GitHub](https://github.com/joneshf/)
 
 Corey Hobbs  
 Business Development: Integrations  
 GitHub  
-[Website](http://corey.chocolatejs.com/) | [Twitter](https://twitter.com/chobberoni) |
-[GitHub](https://github.com/chobberoni)
+[Website](http://corey.chocolatejs.com/) | [Twitter](https://twitter.com/chobberoni) | [GitHub](https://github.com/chobberoni)
 
 Alison Stanton  
 Chief Problem Solver (Data Engineer & Architect)  
@@ -56,8 +49,7 @@ Stanton Ventures
 David Yarde  
 Partner & Creative Director  
 Sevenality  
-[Personal Website](http://davidyarde.com) | [Company Website](http://sevenality.com) | [Twitter](https://twitter.com/dsmy) |
-[GitHub](https://github.com/dsmy) | [Linkedin](https://www.linkedin.com/in/davidyarde) | [Youtube](https://www.youtube.com/c/davidyarde) | [Amazon](https://www.amazon.com/David-Yarde/e/B00P6XFLOG/) | [Dribbble](https://dribbble.com/dsmy)
+[Personal Website](http://davidyarde.com) | [Company Website](http://sevenality.com) | [Twitter](https://twitter.com/dsmy) | [GitHub](https://github.com/dsmy) | [Linkedin](https://www.linkedin.com/in/davidyarde) | [Youtube](https://www.youtube.com/c/davidyarde) | [Amazon](https://www.amazon.com/David-Yarde/e/B00P6XFLOG/) | [Dribbble](https://dribbble.com/dsmy)
 
 Adekunle Oduye  
 Product Designer  
@@ -66,8 +58,7 @@ Product Designer
 Obinwanne Hill  
 Founder and Lead Developer  
 Restive  
-[Website](http://obihill.com) | [Twitter](https://twitter.com/obihill) |
-[GitHub](https://github.com/obihill)
+[Website](http://obihill.com) | [Twitter](https://twitter.com/obihill) | [GitHub](https://github.com/obihill)
 
 Alexander Miranda  
 Software Engineer  
@@ -76,8 +67,7 @@ Software Engineer
 Vaidehi Joshi  
 Software Engineer  
 Imprint  
-[Website](http://vaidehi.com) | [Twitter](https://twitter.com/vaidehijoshi) |
-[GitHub](https://github.com/vaidehijoshi)| [Blog](https://vaidehijoshi.github.io)
+[Website](http://vaidehi.com) | [Twitter](https://twitter.com/vaidehijoshi) | [GitHub](https://github.com/vaidehijoshi)| [Blog](https://vaidehijoshi.github.io)
 
 Ashley Ellis  
 Software Engineer  
@@ -115,8 +105,7 @@ Software Engineer that Uses a Afropick as His Leader Key
 Michael Lancaster  
 Software Engineer  
 Uptake  
-[Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) |
-[GitHub](https://github.com/weblancaster)
+[Website](http://bymichaellancaster.com) | [Twitter](https://twitter.com/weblancaster) | [GitHub](https://github.com/weblancaster)
 
 Ron Bronson  
 Service Designer & UX Strategist  
@@ -126,14 +115,12 @@ Service Designer & UX Strategist
 Vasanth Krishnamoorthy  
 Sr. Front End Engineer  
 WalmartLabs  
-[Website](http://www.vasanthk.com/) | [Twitter](https://twitter.com/vasanth_k) |
-[GitHub](https://github.com/vasanthk)
+[Website](http://www.vasanthk.com/) | [Twitter](https://twitter.com/vasanth_k) | [GitHub](https://github.com/vasanthk)
 
 Karmen Blake  
 Software Engineer  
 https://www.usertesting.com  
-[Website](http://blog.dudeblake.com/) | [Twitter](https://twitter.com/kblake) |
-[GitHub](https://github.com/kblake)
+[Website](http://blog.dudeblake.com/) | [Twitter](https://twitter.com/kblake) | [GitHub](https://github.com/kblake)
 
 Timothy B. Smith   
 Frontend Designer   
@@ -157,8 +144,7 @@ Microsoft
 Guilherme (coder) de Souza  
 Product Engineer  
 Sprinklr  
-[Website](http://guisouza.github.io) | [Twitter](https://twitter.com/_gui_souza) |
-[GitHub](https://github.com/guisouza)
+[Website](http://guisouza.github.io) | [Twitter](https://twitter.com/_gui_souza) | [GitHub](https://github.com/guisouza)
 
 Ivana McConnell  
 UI/UX Designer  
@@ -178,8 +164,7 @@ Microsoft
 Jennifer Wong  
 Software Engineer  
 Eventbrite  
-[Website](http://mochimachine.org/) | [Twitter](https://twitter.com/mybluewristband) |
-[GitHub](https://github.com/jennz0r)
+[Website](http://mochimachine.org/) | [Twitter](https://twitter.com/mybluewristband) | [GitHub](https://github.com/jennz0r)
 
 Serena Chen  
 Designer  
@@ -194,26 +179,22 @@ Independent
 Ramesh Nair  
 Full-stack developer  
 HiddenTao  
-[Website](https://hiddentao.com) | [Twitter](https://twitter.com/hiddentao) |
-[GitHub](https://github.com/hiddentao) | [Linkedin](https://www.linkedin.com/in/hiddentao)
+[Website](https://hiddentao.com) | [Twitter](https://twitter.com/hiddentao) | [GitHub](https://github.com/hiddentao) | [Linkedin](https://www.linkedin.com/in/hiddentao)
 
 Terri Burns  
 Associate Product Manager  
 Twitter  
-[Website](http://tcburning.com) | [Twitter](https://twitter.com/tcburning) |
-[GitHub](https://github.com/terriburns)
+[Website](http://tcburning.com) | [Twitter](https://twitter.com/tcburning) | [GitHub](https://github.com/terriburns)
 
 Christina Truong  
 Front-end Developer & Tech Educator  
 Independent  
-[Website](http://christinatruong.com) | [Twitter](https://twitter.com/christinatruong) |
-[GitHub](https://github.com/christinatruong)
+[Website](http://christinatruong.com) | [Twitter](https://twitter.com/christinatruong) | [GitHub](https://github.com/christinatruong)
 
 Megan Tiu  
 Software Engineer  
 CallRail  
-[Website](http://megantiu.com) | [Twitter](https://twitter.com/megandtiu) |
-[GitHub](https://github.com/megantiu) | [LinkedIn](https://www.linkedin.com/megantiu)
+[Website](http://megantiu.com) | [Twitter](https://twitter.com/megandtiu) | [GitHub](https://github.com/megantiu) | [LinkedIn](https://www.linkedin.com/megantiu)
 
 Jennifer Refat  
 Software Engineer  
@@ -227,20 +208,17 @@ Front End Web Developer
 Steve Lacy  
 Full-stack developer & Security researcher  
 Fact0ry / Independent   
-[Website](http://slacy.me) | [Twitter](https://twitter.com/stevedelacy) | 
-[Github](https://github.com/stevelacy)
+[Website](http://slacy.me) | [Twitter](https://twitter.com/stevedelacy) | [Github](https://github.com/stevelacy)
 
 Atif Azam  
 Product Designer  
 MongoDB  
-[Website](http://atifaz.am) | [Twitter](http://www.twitter.com/atifazm) |
-[GitHub](http://www.github.com/atifazam)
+[Website](http://atifaz.am) | [Twitter](http://www.twitter.com/atifazm) | [GitHub](http://www.github.com/atifazam)
 
 Irfan Ahmad  
 Lead QA Engineer   
 Upgrad.com   
-[Website](http://critick.io) | [Twitter](https://twitter.com/notimewaste) |
-[GitHub](https://github.com/irfanah)
+[Website](http://critick.io) | [Twitter](https://twitter.com/notimewaste) | [GitHub](https://github.com/irfanah)
 
 Idmar Ramos Junior (Id)  
 UX Designer  
@@ -260,14 +238,12 @@ Wazee Digital
 Marla Brizel  
 Software Developer  
 Democracy Works  
-[Website](http://www.marlabrizel.com) | [Twitter](https://twitter.com/marlabrizel) |
-[GitHub](https://github.com/marlabrizel)  
+[Website](http://www.marlabrizel.com) | [Twitter](https://twitter.com/marlabrizel) | [GitHub](https://github.com/marlabrizel)  
 
 Husani S. Oakley  
 Chief Technology Officer  
 GoldBean  
-[Personal Website](http://husani.com) | [Company Website](https://hellogoldbean.com) | [Twitter](https://twitter.com/husanioakley) |
-[GitHub](https://github.com/husani) | [Linkedin](https://www.linkedin.com/in/husani)
+[Personal Website](http://husani.com) | [Company Website](https://hellogoldbean.com) | [Twitter](https://twitter.com/husanioakley) | [GitHub](https://github.com/husani) | [Linkedin](https://www.linkedin.com/in/husani)
 
 Stacey Haffner  
 Program Manager | Co-Founder/Developer   
@@ -305,5 +281,4 @@ Changeset Consulting
 
 Zach Carter  
 Founder & Design Engineer  
-[Website](http://zaa.ch) | [Twitter](https://twitter.com/zii) |
-[GitHub](https://github.com/zaach) | [LinkedIn](http://linkedin.com/in/zachcarter)
+[Website](http://zaa.ch) | [Twitter](https://twitter.com/zii) | [GitHub](https://github.com/zaach) | [LinkedIn](http://linkedin.com/in/zachcarter)

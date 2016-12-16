@@ -2,10 +2,15 @@
 'use strict'
 
 const fs = require('fs')
+const path = require('path')
 const es = require('event-stream')
+const slug = require('slug')
 
-fs.createReadStream('./speakers-clean.md')
+// Read the "cleaned" version of the speaker readme
+fs.createReadStream('./scripts/speakers-clean.md')
+  // Split at empty lines - empty lines separate the records
   .pipe(es.split(/^$/m))
+  // Create an array from the text which contains the speaker's info
   .pipe(es.map(function(data, callback) {
     const lines = data.split('\n')
     const len = lines.length
@@ -14,19 +19,84 @@ fs.createReadStream('./speakers-clean.md')
       .filter((l) => l.length > 0 ? true : false)
     callback(null, speakerInfo)
   }))
+  // Convert the speaker's info to an object
   .pipe(es.through(function write(data) {
     const speaker = parseSpeaker(data)
-    console.log(speaker)
+    this.emit('data', speaker)
   }))
-  .pipe(process.stdout)
-
-
+  // Build the speaker's hugo markdown data
+  .pipe(es.map(function(data, callback) {
+    const obj = buildSpeaker(data)
+    callback(null, JSON.stringify(obj))
+  }))
+  // Write the speaker's markdown content to /content/speaker
+  .pipe(es.map(function(data, callback) {
+    writeSpeakerFile(JSON.parse(data), () => {
+      callback(null, data)
+    })
+  }))
+  // Profit.
+  .on('end', () => console.log('\nDone!\n'))
 
 
 /**
+ * @description Generates a speaker's markdown for consumption by hugo
+ */
+function buildSpeaker(data) {
+  const company = data.company || ''
+  const obj = {
+    data
+  }
+  let buff = ['+++',
+    'bio = ""',
+    `company = "${company}"`,
+    `date = "${new Date().toISOString()}"`,
+    'location = ""',
+    `name = "${data.name}"`,
+    'subjects = []',
+    `title = "${data.title}"\n`
+  ]
+
+  data.links.forEach((link, index) => {
+    let urlStr = `  url = "${link.href}"`
+
+    if (index !== data.links.length - 1) {
+      urlStr += '\n'
+    }
+
+    buff = buff.concat([
+      '[[social_links]]',
+      `  name = "${link.text}"`,
+      urlStr
+    ])
+
+  })
+
+  buff.push('+++\n')
+  obj.markdown = buff.join('\n')
+  return obj
+
+}
+
+/**
+ * @description Writes a speaker's info to their own markdown file
+ */
+function writeSpeakerFile(speaker, callback) {
+  const filename = slug(`${speaker.data.name}-${speaker.data.title}`)
+    .toLowerCase()
+  const file = path.resolve('./content/speaker/', filename)
+  fs.writeFile(`${file}.md`, speaker.markdown, { flag: 'w', }, (err) => {
+    if (err) {
+      return callback(err)
+    }
+    callback()
+  })
+}
+
+/**
  * @description Parse out name, title, company (if provided) and links
- *
- *
+ * IMPORTANT: This assumes one links listed for a speaker are all on the same
+ * line.
  */
 function parseSpeaker(data) {
   let info = {}
@@ -44,6 +114,9 @@ function parseSpeaker(data) {
   return info
 }
 
+/**
+ * @description Takes the markdown links and forms an object
+ */
 function parseSpeakerLinks(str) {
   let parts = str.split('|').map((l) => l.trim())
   return parts.map((link) => {

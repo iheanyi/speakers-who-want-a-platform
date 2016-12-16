@@ -4,7 +4,8 @@
   "description": "Repo for underrepresented speakers who want to speak at a conference.",
   "main": "js/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "parse": "node scripts/parse-speakers.js"
   },
   "repository": {
     "type": "git",
@@ -34,6 +35,7 @@
   },
   "dependencies": {
     "event-stream": "^3.3.4",
+    "slug": "^0.9.1",
     "tachyons": "^4.5.2"
   }
 }

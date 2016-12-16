@@ -17,3 +17,8 @@ $ nvm use
 $ npm install
 $ hugo server
 ```
+
+Note: If you want to regenerate the speaker data run
+```
+$ npm run parse
+```
