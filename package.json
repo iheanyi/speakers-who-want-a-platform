@@ -4,7 +4,9 @@
   "description": "Repo for underrepresented speakers who want to speak at a conference.",
   "main": "js/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "parse": "node scripts/parse-speakers.js",
+    "start": "hugo server"
   },
   "repository": {
     "type": "git",
@@ -33,6 +35,9 @@
     "webpack": "^1.13.2"
   },
   "dependencies": {
+    "event-stream": "^3.3.4",
+    "mkdirp": "^0.5.1",
+    "slug": "^0.9.1",
     "tachyons": "^4.5.2"
   }
 }
