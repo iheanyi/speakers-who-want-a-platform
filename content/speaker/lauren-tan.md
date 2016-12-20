@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Netflix"
-date = "2016-12-20T02:11:06.381Z"
+date = "2016-12-20T02:39:13.562Z"
 location = ""
+name = "Lauren Tan"
 title = "Lauren Tan"
 subjects = []
 role = "Senior Full Stack Engineer"

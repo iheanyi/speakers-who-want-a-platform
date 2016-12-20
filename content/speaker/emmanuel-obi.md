@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "[5th Column](http://5thcolumn.net/)"
-date = "2016-12-20T02:11:06.377Z"
+date = "2016-12-20T02:39:13.558Z"
 location = ""
+name = "Emmanuel Obi"
 title = "Emmanuel Obi"
 subjects = []
 role = "Software Engineer"

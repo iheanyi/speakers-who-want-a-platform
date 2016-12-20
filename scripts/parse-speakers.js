@@ -52,6 +52,7 @@ function buildSpeaker(data) {
     `company = "${company}"`,
     `date = "${new Date().toISOString()}"`,
     'location = ""',
+    `name = "${data.name}"`,
     `title = "${data.name}"`,
     'subjects = []',
     `role = "${data.title}"\n`

@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Stanton Ventures"
-date = "2016-12-20T02:11:06.378Z"
+date = "2016-12-20T02:39:13.559Z"
 location = ""
+name = "Alison Stanton"
 title = "Alison Stanton"
 subjects = []
 role = "Chief Problem Solver (Data Engineer & Architect)"

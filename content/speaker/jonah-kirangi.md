@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Remitly"
-date = "2016-12-20T02:11:06.377Z"
+date = "2016-12-20T02:39:13.558Z"
 location = ""
+name = "Jonah Kirangi"
 title = "Jonah Kirangi"
 subjects = []
 role = "Front-End Software Engineer"

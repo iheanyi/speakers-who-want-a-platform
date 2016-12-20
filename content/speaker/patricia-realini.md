@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Bustle"
-date = "2016-12-20T02:11:06.382Z"
+date = "2016-12-20T02:39:13.563Z"
 location = ""
+name = "Patricia Realini"
 title = "Patricia Realini"
 subjects = []
 role = "Software Engineer"

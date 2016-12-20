@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = ""
-date = "2016-12-20T02:11:06.395Z"
+date = "2016-12-20T02:39:13.572Z"
 location = ""
+name = "Courtney Wilburn"
 title = "Courtney Wilburn"
 subjects = []
 role = "Back-End Developer/Programmer"

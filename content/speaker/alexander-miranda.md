@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = ""
-date = "2016-12-20T02:11:06.380Z"
+date = "2016-12-20T02:39:13.561Z"
 location = ""
+name = "Alexander Miranda"
 title = "Alexander Miranda"
 subjects = []
 role = "Software Engineer"

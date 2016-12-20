@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Eventbrite"
-date = "2016-12-20T02:11:06.387Z"
+date = "2016-12-20T02:39:13.567Z"
 location = ""
+name = "Jennifer Wong"
 title = "Jennifer Wong"
 subjects = []
 role = "Software Engineer"

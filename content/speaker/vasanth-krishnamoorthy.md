@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "WalmartLabs"
-date = "2016-12-20T02:11:06.383Z"
+date = "2016-12-20T02:39:13.564Z"
 location = ""
+name = "Vasanth Krishnamoorthy"
 title = "Vasanth Krishnamoorthy"
 subjects = []
 role = "Sr. Front End Engineer"

@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "NoRedInk"
-date = "2016-12-20T02:11:06.377Z"
+date = "2016-12-20T02:39:13.559Z"
 location = ""
+name = "Hardy Jones"
 title = "Hardy Jones"
 subjects = []
 role = "Software Engineer"

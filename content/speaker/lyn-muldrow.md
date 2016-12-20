@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Hack the Hood"
-date = "2016-12-20T02:11:06.381Z"
+date = "2016-12-20T02:39:13.563Z"
 location = ""
+name = "Lyn Muldrow"
 title = "Lyn Muldrow"
 subjects = []
 role = "Technical Manager & Front-End Developer"

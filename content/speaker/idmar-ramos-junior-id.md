@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Booking.com"
-date = "2016-12-20T02:11:06.392Z"
+date = "2016-12-20T02:39:13.570Z"
 location = ""
+name = "Idmar Ramos Junior (Id)"
 title = "Idmar Ramos Junior (Id)"
 subjects = []
 role = "UX Designer"

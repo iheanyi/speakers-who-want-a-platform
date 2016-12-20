@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = ""
-date = "2016-12-20T02:11:06.381Z"
+date = "2016-12-20T02:39:13.562Z"
 location = ""
+name = "Ruth Miller"
 title = "Ruth Miller"
 subjects = []
 role = "Product Manager and Facilitator"

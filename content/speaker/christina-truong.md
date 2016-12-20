@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Independent"
-date = "2016-12-20T02:11:06.389Z"
+date = "2016-12-20T02:39:13.568Z"
 location = ""
+name = "Christina Truong"
 title = "Christina Truong"
 subjects = []
 role = "Front-end Developer & Tech Educator"

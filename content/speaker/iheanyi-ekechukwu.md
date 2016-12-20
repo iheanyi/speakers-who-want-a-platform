@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "DigitalOcean"
-date = "2016-12-20T02:11:06.373Z"
+date = "2016-12-20T02:39:13.554Z"
 location = ""
+name = "Iheanyi Ekechukwu"
 title = "Iheanyi Ekechukwu"
 subjects = []
 role = "Software Engineer"

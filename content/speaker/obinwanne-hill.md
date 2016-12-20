@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Restive"
-date = "2016-12-20T02:11:06.379Z"
+date = "2016-12-20T02:39:13.560Z"
 location = ""
+name = "Obinwanne Hill"
 title = "Obinwanne Hill"
 subjects = []
 role = "Founder and Lead Developer"

@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Microsoft"
-date = "2016-12-20T02:11:06.385Z"
+date = "2016-12-20T02:39:13.566Z"
 location = ""
+name = "Rong Lu"
 title = "Rong Lu"
 subjects = []
 role = "Program Manager"

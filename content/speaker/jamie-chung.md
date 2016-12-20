@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Dropbox"
-date = "2016-12-20T02:11:06.394Z"
+date = "2016-12-20T02:39:13.572Z"
 location = ""
+name = "Jamie Chung"
 title = "Jamie Chung"
 subjects = []
 role = "Engineer"

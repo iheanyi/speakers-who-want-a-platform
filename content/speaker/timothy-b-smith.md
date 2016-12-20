@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = ""
-date = "2016-12-20T02:11:06.383Z"
+date = "2016-12-20T02:39:13.565Z"
 location = ""
+name = "Timothy B. Smith"
 title = "Timothy B. Smith"
 subjects = []
 role = "Frontend Designer"

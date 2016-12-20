@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Changeset Consulting"
-date = "2016-12-20T02:11:06.395Z"
+date = "2016-12-20T02:39:13.572Z"
 location = ""
+name = "Sumana Harihareswara"
 title = "Sumana Harihareswara"
 subjects = []
 role = "Founder, open source expert and maintainer"

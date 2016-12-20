@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Eventbrite"
-date = "2016-12-20T02:11:06.376Z"
+date = "2016-12-20T02:39:13.557Z"
 location = ""
+name = "Ben Ilegbodu"
 title = "Ben Ilegbodu"
 subjects = []
 role = "Lead UI Engineer"

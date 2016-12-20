@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "GoldBean"
-date = "2016-12-20T02:11:06.393Z"
+date = "2016-12-20T02:39:13.571Z"
 location = ""
+name = "Husani S. Oakley"
 title = "Husani S. Oakley"
 subjects = []
 role = "Chief Technology Officer"

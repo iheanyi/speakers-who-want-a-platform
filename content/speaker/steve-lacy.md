@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Fact0ry / Independent"
-date = "2016-12-20T02:11:06.391Z"
+date = "2016-12-20T02:39:13.569Z"
 location = ""
+name = "Steve Lacy"
 title = "Steve Lacy"
 subjects = []
 role = "Full-stack developer & Security researcher"

@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Kim Crayton LLC"
-date = "2016-12-20T02:11:06.394Z"
+date = "2016-12-20T02:39:13.572Z"
 location = ""
+name = "Kim Crayton"
 title = "Kim Crayton"
 subjects = []
 role = "Business Relationship Strategist"

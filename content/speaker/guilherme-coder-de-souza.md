@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Sprinklr"
-date = "2016-12-20T02:11:06.385Z"
+date = "2016-12-20T02:39:13.566Z"
 location = ""
+name = "Guilherme (coder) de Souza"
 title = "Guilherme (coder) de Souza"
 subjects = []
 role = "Product Engineer"

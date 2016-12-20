@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Square"
-date = "2016-12-20T02:11:06.382Z"
+date = "2016-12-20T02:39:13.563Z"
 location = ""
+name = "Gloria Kimbwala"
 title = "Gloria Kimbwala"
 subjects = []
 role = "Campus Technical Specialist"

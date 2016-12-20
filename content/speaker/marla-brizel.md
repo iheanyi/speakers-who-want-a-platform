@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "Democracy Works"
-date = "2016-12-20T02:11:06.393Z"
+date = "2016-12-20T02:39:13.571Z"
 location = ""
+name = "Marla Brizel"
 title = "Marla Brizel"
 subjects = []
 role = "Software Developer"

@@ -1,8 +1,9 @@
 +++
 bio = ""
 company = "ISL"
-date = "2016-12-20T02:11:06.377Z"
+date = "2016-12-20T02:39:13.558Z"
 location = ""
+name = "Johnny Ray Austin"
 title = "Johnny Ray Austin"
 subjects = []
 role = "Director of Technology"
