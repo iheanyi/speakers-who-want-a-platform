@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "thoughtbot"
-date = "2016-12-16T21:05:07.150Z"
+date = "2016-12-20T02:11:06.381Z"
 location = ""
-name = "Ashley Ellis"
+title = "Ashley Ellis"
 subjects = []
-title = "Software Engineer"
+role = "Software Engineer"
 
 [[social_links]]
   name = "Website"

@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Stanton Ventures"
-date = "2016-12-16T21:05:07.147Z"
+date = "2016-12-20T02:11:06.378Z"
 location = ""
-name = "Alison Stanton"
+title = "Alison Stanton"
 subjects = []
-title = "Chief Problem Solver (Data Engineer & Architect)"
+role = "Chief Problem Solver (Data Engineer & Architect)"
 
 [[social_links]]
   name = "Website & Blog"

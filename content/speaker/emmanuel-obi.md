@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "[5th Column](http://5thcolumn.net/)"
-date = "2016-12-16T21:05:07.146Z"
+date = "2016-12-20T02:11:06.377Z"
 location = ""
-name = "Emmanuel Obi"
+title = "Emmanuel Obi"
 subjects = []
-title = "Software Engineer"
+role = "Software Engineer"
 
 [[social_links]]
   name = "Website"

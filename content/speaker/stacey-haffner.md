@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Microsoft | What Up Games, LLC"
-date = "2016-12-16T21:05:07.157Z"
+date = "2016-12-20T02:11:06.394Z"
 location = ""
-name = "Stacey Haffner"
+title = "Stacey Haffner"
 subjects = []
-title = "Program Manager | Co-Founder/Developer"
+role = "Program Manager | Co-Founder/Developer"
 
 [[social_links]]
   name = "Twitter"

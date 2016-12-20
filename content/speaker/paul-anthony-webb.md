@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Queralt Inc"
-date = "2016-12-16T21:05:07.153Z"
+date = "2016-12-20T02:11:06.385Z"
 location = ""
-name = "Paul Anthony Webb"
+title = "Paul Anthony Webb"
 subjects = []
-title = "Front-End Designer & Developer"
+role = "Front-End Designer & Developer"
 
 [[social_links]]
   name = "Website"

@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "MongoDB"
-date = "2016-12-16T21:05:07.156Z"
+date = "2016-12-20T02:11:06.391Z"
 location = ""
-name = "Atif Azam"
+title = "Atif Azam"
 subjects = []
-title = "Product Designer"
+role = "Product Designer"
 
 [[social_links]]
   name = "Website"

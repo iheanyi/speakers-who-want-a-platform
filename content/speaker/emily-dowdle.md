@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Wazee Digital"
-date = "2016-12-16T21:05:07.157Z"
+date = "2016-12-20T02:11:06.393Z"
 location = ""
-name = "Emily Dowdle"
+title = "Emily Dowdle"
 subjects = []
-title = "Software Engineer"
+role = "Software Engineer"
 
 [[social_links]]
   name = "Website"

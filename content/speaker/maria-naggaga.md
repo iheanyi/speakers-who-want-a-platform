@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Microsoft"
-date = "2016-12-16T21:05:07.153Z"
+date = "2016-12-20T02:11:06.386Z"
 location = ""
-name = "Maria Naggaga"
+title = "Maria Naggaga"
 subjects = []
-title = "Program Manager"
+role = "Program Manager"
 
 [[social_links]]
   name = "Website"

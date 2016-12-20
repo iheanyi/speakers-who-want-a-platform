@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "GitHub"
-date = "2016-12-16T21:05:07.147Z"
+date = "2016-12-20T02:11:06.377Z"
 location = ""
-name = "Corey Hobbs"
+title = "Corey Hobbs"
 subjects = []
-title = "Business Development: Integrations"
+role = "Business Development: Integrations"
 
 [[social_links]]
   name = "Website"

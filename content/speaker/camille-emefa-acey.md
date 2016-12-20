@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Clubhouse"
-date = "2016-12-16T21:05:07.152Z"
+date = "2016-12-20T02:11:06.384Z"
 location = ""
-name = "Camille Emefa Acey"
+title = "Camille Emefa Acey"
 subjects = []
-title = "VP Customer Success"
+role = "VP Customer Success"
 
 [[social_links]]
   name = "Blog"

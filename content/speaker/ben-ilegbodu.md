@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Eventbrite"
-date = "2016-12-16T21:05:07.142Z"
+date = "2016-12-20T02:11:06.376Z"
 location = ""
-name = "Ben Ilegbodu"
+title = "Ben Ilegbodu"
 subjects = []
-title = "Lead UI Engineer"
+role = "Lead UI Engineer"
 
 [[social_links]]
   name = "Blog"

@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "CA Technologies (Rally Software)"
-date = "2016-12-16T21:05:07.156Z"
+date = "2016-12-20T02:11:06.393Z"
 location = ""
-name = "Lovisa Svallingson"
+title = "Lovisa Svallingson"
 subjects = []
-title = "Software Engineer"
+role = "Software Engineer"
 
 [[social_links]]
   name = "Website"

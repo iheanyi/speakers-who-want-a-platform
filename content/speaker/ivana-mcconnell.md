@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Customer.io"
-date = "2016-12-16T21:05:07.152Z"
+date = "2016-12-20T02:11:06.385Z"
 location = ""
-name = "Ivana McConnell"
+title = "Ivana McConnell"
 subjects = []
-title = "UI/UX Designer"
+role = "UI/UX Designer"
 
 [[social_links]]
   name = "Website"

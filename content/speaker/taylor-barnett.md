@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Keen IO"
-date = "2016-12-16T21:05:07.152Z"
+date = "2016-12-20T02:11:06.383Z"
 location = ""
-name = "Taylor Barnett"
+title = "Taylor Barnett"
 subjects = []
-title = "Developer Evangelist"
+role = "Developer Evangelist"
 
 [[social_links]]
   name = "Twitter"

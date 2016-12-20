@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = ""
-date = "2016-12-16T21:05:07.149Z"
+date = "2016-12-20T02:11:06.380Z"
 location = ""
-name = "Alexander Miranda"
+title = "Alexander Miranda"
 subjects = []
-title = "Software Engineer"
+role = "Software Engineer"
 
 [[social_links]]
   name = "Website"

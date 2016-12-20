@@ -52,9 +52,9 @@ function buildSpeaker(data) {
     `company = "${company}"`,
     `date = "${new Date().toISOString()}"`,
     'location = ""',
-    `name = "${data.name}"`,
+    `title = "${data.name}"`,
     'subjects = []',
-    `title = "${data.title}"\n`
+    `role = "${data.title}"\n`
   ]
 
   data.links.forEach((link, index) => {

@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "CallRail"
-date = "2016-12-16T21:05:07.155Z"
+date = "2016-12-20T02:11:06.389Z"
 location = ""
-name = "Megan Tiu"
+title = "Megan Tiu"
 subjects = []
-title = "Software Engineer"
+role = "Software Engineer"
 
 [[social_links]]
   name = "Website"

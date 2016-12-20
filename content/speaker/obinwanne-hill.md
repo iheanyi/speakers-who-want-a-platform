@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Restive"
-date = "2016-12-16T21:05:07.149Z"
+date = "2016-12-20T02:11:06.379Z"
 location = ""
-name = "Obinwanne Hill"
+title = "Obinwanne Hill"
 subjects = []
-title = "Founder and Lead Developer"
+role = "Founder and Lead Developer"
 
 [[social_links]]
   name = "Website"

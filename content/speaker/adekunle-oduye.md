@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = ""
-date = "2016-12-16T21:05:07.149Z"
+date = "2016-12-20T02:11:06.379Z"
 location = ""
-name = "Adekunle Oduye"
+title = "Adekunle Oduye"
 subjects = []
-title = "Product Designer"
+role = "Product Designer"
 
 [[social_links]]
   name = "Website"

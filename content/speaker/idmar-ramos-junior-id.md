@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Booking.com"
-date = "2016-12-16T21:05:07.156Z"
+date = "2016-12-20T02:11:06.392Z"
 location = ""
-name = "Idmar Ramos Junior (Id)"
+title = "Idmar Ramos Junior (Id)"
 subjects = []
-title = "UX Designer"
+role = "UX Designer"
 
 [[social_links]]
   name = "Website"

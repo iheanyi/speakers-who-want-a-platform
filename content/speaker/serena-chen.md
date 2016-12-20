@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "[Website](http://serena.nz) | [Twitter](https://twitter.com/sereeena) |"
-date = "2016-12-16T21:05:07.154Z"
+date = "2016-12-20T02:11:06.387Z"
 location = ""
-name = "Serena Chen"
+title = "Serena Chen"
 subjects = []
-title = "Designer"
+role = "Designer"
 
 [[social_links]]
   name = "GitHub"

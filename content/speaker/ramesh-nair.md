@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "HiddenTao"
-date = "2016-12-16T21:05:07.154Z"
+date = "2016-12-20T02:11:06.388Z"
 location = ""
-name = "Ramesh Nair"
+title = "Ramesh Nair"
 subjects = []
-title = "Full-stack developer"
+role = "Full-stack developer"
 
 [[social_links]]
   name = "Website"

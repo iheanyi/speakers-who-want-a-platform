@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "ISL"
-date = "2016-12-16T21:05:07.146Z"
+date = "2016-12-20T02:11:06.377Z"
 location = ""
-name = "Johnny Ray Austin"
+title = "Johnny Ray Austin"
 subjects = []
-title = "Director of Technology"
+role = "Director of Technology"
 
 [[social_links]]
   name = "Website"

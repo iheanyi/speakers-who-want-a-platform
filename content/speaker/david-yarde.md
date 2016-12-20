@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Sevenality"
-date = "2016-12-16T21:05:07.148Z"
+date = "2016-12-20T02:11:06.378Z"
 location = ""
-name = "David Yarde"
+title = "David Yarde"
 subjects = []
-title = "Partner & Creative Director"
+role = "Partner & Creative Director"
 
 [[social_links]]
   name = "Personal Website"

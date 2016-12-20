@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "WalmartLabs"
-date = "2016-12-16T21:05:07.151Z"
+date = "2016-12-20T02:11:06.383Z"
 location = ""
-name = "Vasanth Krishnamoorthy"
+title = "Vasanth Krishnamoorthy"
 subjects = []
-title = "Sr. Front End Engineer"
+role = "Sr. Front End Engineer"
 
 [[social_links]]
   name = "Website"

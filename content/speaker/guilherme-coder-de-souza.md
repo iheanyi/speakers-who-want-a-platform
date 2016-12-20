@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Sprinklr"
-date = "2016-12-16T21:05:07.152Z"
+date = "2016-12-20T02:11:06.385Z"
 location = ""
-name = "Guilherme (coder) de Souza"
+title = "Guilherme (coder) de Souza"
 subjects = []
-title = "Product Engineer"
+role = "Product Engineer"
 
 [[social_links]]
   name = "Website"

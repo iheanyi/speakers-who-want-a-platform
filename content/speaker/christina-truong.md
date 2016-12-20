@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Independent"
-date = "2016-12-16T21:05:07.155Z"
+date = "2016-12-20T02:11:06.389Z"
 location = ""
-name = "Christina Truong"
+title = "Christina Truong"
 subjects = []
-title = "Front-end Developer & Tech Educator"
+role = "Front-end Developer & Tech Educator"
 
 [[social_links]]
   name = "Website"

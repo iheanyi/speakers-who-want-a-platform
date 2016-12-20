@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Democracy Works"
-date = "2016-12-16T21:05:07.157Z"
+date = "2016-12-20T02:11:06.393Z"
 location = ""
-name = "Marla Brizel"
+title = "Marla Brizel"
 subjects = []
-title = "Software Developer"
+role = "Software Developer"
 
 [[social_links]]
   name = "Website"

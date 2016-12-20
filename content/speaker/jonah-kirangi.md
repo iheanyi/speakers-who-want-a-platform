@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Remitly"
-date = "2016-12-16T21:05:07.145Z"
+date = "2016-12-20T02:11:06.377Z"
 location = ""
-name = "Jonah Kirangi"
+title = "Jonah Kirangi"
 subjects = []
-title = "Front-End Software Engineer"
+role = "Front-End Software Engineer"
 
 [[social_links]]
   name = "Website"

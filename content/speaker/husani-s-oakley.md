@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "GoldBean"
-date = "2016-12-16T21:05:07.157Z"
+date = "2016-12-20T02:11:06.393Z"
 location = ""
-name = "Husani S. Oakley"
+title = "Husani S. Oakley"
 subjects = []
-title = "Chief Technology Officer"
+role = "Chief Technology Officer"
 
 [[social_links]]
   name = "Personal Website"

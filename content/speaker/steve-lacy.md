@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Fact0ry / Independent"
-date = "2016-12-16T21:05:07.155Z"
+date = "2016-12-20T02:11:06.391Z"
 location = ""
-name = "Steve Lacy"
+title = "Steve Lacy"
 subjects = []
-title = "Full-stack developer & Security researcher"
+role = "Full-stack developer & Security researcher"
 
 [[social_links]]
   name = "Website"

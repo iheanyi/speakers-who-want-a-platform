@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = ""
-date = "2016-12-16T21:05:07.151Z"
+date = "2016-12-20T02:11:06.382Z"
 location = ""
-name = "Jacky Alciné"
+title = "Jacky Alciné"
 subjects = []
-title = "Software Engineer that Uses a Afropick as His Leader Key"
+role = "Software Engineer that Uses a Afropick as His Leader Key"
 
 [[social_links]]
   name = "Website"

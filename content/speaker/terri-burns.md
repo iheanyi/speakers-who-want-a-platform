@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Twitter"
-date = "2016-12-16T21:05:07.154Z"
+date = "2016-12-20T02:11:06.388Z"
 location = ""
-name = "Terri Burns"
+title = "Terri Burns"
 subjects = []
-title = "Associate Product Manager"
+role = "Associate Product Manager"
 
 [[social_links]]
   name = "Website"

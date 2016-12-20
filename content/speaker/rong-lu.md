@@ -1,11 +1,11 @@
 +++
 bio = ""
 company = "Microsoft"
-date = "2016-12-16T21:05:07.152Z"
+date = "2016-12-20T02:11:06.385Z"
 location = ""
-name = "Rong Lu"
+title = "Rong Lu"
 subjects = []
-title = "Program Manager"
+role = "Program Manager"
 
 [[social_links]]
   name = "Channel9"
