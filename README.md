@@ -10,6 +10,10 @@ problem.
 Everyone who wants to speak should consider adding themselves if you identify as part of an underrepresented group. Everyone's experiences matter and should be heard - no matter your skill level, title, role, etc. Please check out the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for guidelines for contributing.
 
 ## Speakers
+Camille Emefa Acey 
+VP Customer Success
+Clubhouse 
+[Blog] (http://medium.com/@kavbojka) | [Twitter](https://twitter.com/kavbojka) |
 
 Iheanyi Ekechukwu  
 Software Engineer  
