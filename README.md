@@ -330,3 +330,8 @@ Technical Program Manager
 Asia Hoe
 Product Designer
 [Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
+
+Desiree Garcia </br>
+Product Designer </br>
+IBM Watson </br>
+[Website](http://dezz.ie) | [Twitter](https://twitter.com/thedezzie) | [GitHub](https://github.com/dezzie) | [Medium](https://medium.com/@thedezzie)
