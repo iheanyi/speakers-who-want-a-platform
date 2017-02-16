@@ -330,3 +330,11 @@ Technical Program Manager
 Asia Hoe
 Product Designer
 [Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
+
+Nyah Check  
+Software Engineer 
+[Komand](http://komand.com)  
+[Website](http://ch3ck.me) | [Twitter](https://twitter.com/nyah_check) |
+[GitHub](https://github.com/Ch3ck)| [LinkedIn](https://linkedin.com/in/nyahcheck)
+
+
