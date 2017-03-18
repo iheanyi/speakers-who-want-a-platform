@@ -1,1 +1,8 @@
-<h1>This is the speaker section and all that</h1>
+{{ partial "header.html" . }}
+<div class="w-90 center">
+  <h1>Speakers</h1>
+  {{ range .Data.Pages }}
+    {{ .Render "li" }}
+  {{ end }}
+</div>
+{{ partial "footer.html" . }}

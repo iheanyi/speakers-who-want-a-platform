@@ -2,7 +2,7 @@
 bio = ""
 company = "DigitalOcean"
 date = "2016-12-20T02:39:13.554Z"
-location = ""
+location = "Brooklyn, NY"
 name = "Iheanyi Ekechukwu"
 title = "Iheanyi Ekechukwu"
 subjects = []

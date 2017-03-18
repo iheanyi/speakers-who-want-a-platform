@@ -1,7 +1,6 @@
-<ul>
-  <li>Name: {{.Params.name}}</li>
-  <li>Location: {{.Params.location }}</li>
-  <li>Subjects: {{.Params.subjects}}</li>
-  <li>Social Links: {{.Params.social_links}}</li>
-  <li>Talks: {{.Params.conferences}}</li>
-</ul>
+<div class="h4 pr1 w-100 w-50-m w-25-l db fl">
+  <h4><a class="link near-black underline-hover" href="{{.URL}}">{{.Params.name}}</a></h4>
+  <div>
+    {{ partial "role-company" (dict "role" .Params.role "company" .Params.company) }}
+  </div>
+</div>

@@ -1,0 +1,10 @@
+{{ partial "header.html" . }}
+<div class="w-90 center">
+  <h1>{{.Params.name}}</h1>
+  <p class="f3">
+  {{ partial "role-company" (dict "role" .Params.role "company" .Params.company) }}
+  </p>
+  <p>
+  {{.Params.location}}
+  </p>
+</div>
