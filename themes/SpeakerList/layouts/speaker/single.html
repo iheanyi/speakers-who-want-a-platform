@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+{{ partial "header" . }}
 <div class="w-90 center">
   <h1>{{.Params.name}}</h1>
   <p class="f4">
@@ -17,3 +17,5 @@
     {{ end }}
   </ul>
 </div>
+
+{{ partial "footer" . }}
