@@ -1,6 +1,20 @@
-<div class="h4 pr4 w-100 w-50-m w-25-l db fl">
+<div class="h5-ns pr4 pb4 w-100 w-50-m w-25-l db fl">
   <h4><a class="blue link near-black underline-hover" href="{{.URL}}">{{.Params.name}}</a></h4>
-  <div>
+  <div class="mb3">
     {{ partial "role-company" (dict "role" .Params.role "company" .Params.company) }}
   </div>
+
+  <div>
+    {{ if .Params.location }}
+      {{ .Params.location }}
+    {{ end }}
+  </div>
+
+  <ul class="list pl0">
+    {{ range first 4 (sort .Params.social_links "name") }}
+      <li class="dib pb3 mr3">
+        <a class="link underline-hover blue b" href="{{.url}}">{{.name}}</a>
+      </li>
+    {{ end }}
+  </ul>
 </div>

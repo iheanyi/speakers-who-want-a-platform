@@ -1,1 +1,1 @@
-{{ .role }} {{ if .company }}&mdash; {{.company}} {{ end }}
+{{ .role }} {{ if .company }}&mdash; {{.company | markdownify }} {{ end }}
