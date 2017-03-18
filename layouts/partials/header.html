@@ -1,11 +1,27 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<head>
+  <head>
     <meta charset="utf-8">
     <base href="{{ .Site.BaseURL }}">
     <title>{{ .Site.Title }}</title>
     <link rel="canonical" href="{{ .Permalink }}">
     <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
     <script src="/js/app.js"></script>
-</head>
-<body>
+  </head>
+  <body class="bg-washed-green pa4-l">
+    <div class="bg-white pb5">
+      <div class="pv4 w-90 center">
+        <div class="flex flex-auto flex-row items-center justify-between">
+          <div class="f2 b">
+            <a href="/" class="link near-black">We Speak Too</a>
+          </div>
+
+          <div class="dib">
+            <ul class="p0 list">
+              <li class="dib-ns mb3 mr3-ns"><a class="link b near-black" href="/about">About</a></li>
+              <li class="dib-ns mb3 mr3-ns"><a class="link b near-black" href="/speaker">Speakers</a></li>
+              <li class="dib-ns mb3 mr3-ns"><a class="link b near-black" href="/contributing">Contributing</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>

@@ -1,48 +1,38 @@
 {{ partial "header.html" . }}
-<div class="pt4 ph4 w-100">
-  <div class="flex flex-auto flex-row justify-between">
-    <div class="f2 b">
-      <a href="/" class="link near-black">We Speak Too</a>
+
+<div class="w-90 center">
+  <div class="mt2">
+    <div class="measure">
+      <h1>Purpose</h1>
+      <p class="lh-copy">
+      Often people say that they cannot find speakers from underrepresented
+      groups, whether by race, gender, sexual orientation, etc. This website
+      exists as an easy way to find various folks from underrepresented groups and
+      inviting them to your conferences, panels, or other events.
+      </p>
     </div>
-
-  <div class="dib">
-    <ul class="p0 list">
-      <li class="dib-ns mb3 mr3-ns"><a class="link b near-black" href="/about">About</a></li>
-      <li class="dib-ns mb3 mr3-ns"><a class="link b near-black" href="/speaker">Speakers</a></li>
-      <li class="dib-ns mb3 mr3-ns"><a class="link b near-black" href="/contributing">Contributing</a></li>
-    </ul>
   </div>
+
+  <div class="mv4">
+    <h1>Featured Speakers</h1>
+    <div class="cf">
+      {{ range first 10 (sort .Data.Pages "Params.date" "desc") }}
+        {{ .Render "li" }}
+      {{ end }}
+    </div>
+    <a href="/speaker" class="dim dib w-auto link button pv3 ph4 mv2 b ttu tracking
+    bg-blue bg-dark-blue-hover white">View All Speakers</a>
   </div>
-</div>
 
-<div class="mt4 ph4">
-  <div class="measure">
-    <h1>Purpose</h1>
-    <p class="lh-copy">Often people say that they cannot find speakers from underrepresented
-    groups, whether it's black people, LGBT individuals, women, or others.
-    This wbesite exists to serve as an easy way to find people from these
-    groups and extend invitations to them to come and speak at your
-    conferences or events.</p>
+  <div class="mt2">
+    <h1>Contributing</h1>
+    <p>Add some guidelines for contributing here. Probably will make it
+    it's own page as well.</p>
   </div>
-</div>
 
-<div class="mt2 ph4">
-  <h1>Speakers</h1>
-  <div class="cf">
-    {{ range .Data.Pages }}
-      {{ .Render "li" }}
-    {{ end }}
+  <div class="mt2">
+    Created by <a href="http://twitter.com/kwuchu">Iheanyi Ekechukwu</a>. Check
+    out the repo here.
   </div>
-</div>
 
-<div class="mt2 ph4">
-  <h1>Contributing</h1>
-  <p>Add some guidelines for contributing here. Probably will make it
-  it's own page as well.</p>
-</div>
-
-<div class="mt2 ph4">
-  Created by <a href="http://twitter.com/kwuchu">Iheanyi Ekechukwu</a>. Check
-  out the repo here.
-</div>
-{{ partial "footer.html" . }}
+  {{ partial "footer.html" . }}

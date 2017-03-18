@@ -1,8 +1,12 @@
 {{ partial "header.html" . }}
 <div class="w-90 center">
-  <h1>Speakers</h1>
-  {{ range .Data.Pages }}
-    {{ .Render "li" }}
-  {{ end }}
+  <h1 class="dib">Speakers</h1>
+  <span class="ml3 small"><a href="contributing" class="link underline blue">(Want to add your name to this
+      list?)</a></span>
+  <div class="cf">
+    {{ range .Data.Pages }}
+      {{ .Render "li" }}
+    {{ end }}
+  </div>
 </div>
 {{ partial "footer.html" . }}
