@@ -330,3 +330,7 @@ Technical Program Manager
 Asia Hoe
 Product Designer
 [Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
+
+Peter Mbanugo  
+Software Developer  
+[Twitter](https://twitter.com/p_mbanugo) | [GitHub](https://github.com/pmbanugo) | [LinkedIn](https://ng.linkedin.com/in/pmbanugo)
