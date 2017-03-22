@@ -330,3 +330,9 @@ Technical Program Manager
 Asia Hoe
 Product Designer
 [Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
+
+Troy Connor
+Software Engineer
+[GitHub](https://github.com/troy0820) | 
+[Twitter](https://twitter.com/troy0820) |
+[LinkedIn](https://www.linkedin.com/in/troyconnor) 
