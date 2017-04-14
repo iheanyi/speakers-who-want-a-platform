@@ -323,9 +323,14 @@ Founder & Design Engineer
 
 Anjuan Simmons   
 Technical Program Manager   
-[Assemble Systems](http://assemblesystems.com/)  
-[Website](http://www.AnjuanSimmons.com) | [My Talks] (http://www.anjuansimmons.com/my-talks) | [Book Me] (http://www.anjuansimmons.com/book-me) | [Contact Me] (http://www.anjuansimmons.com/contact)    
+[Assemble Systems](http://assemblesystems.com/)   
+[Website](http://www.AnjuanSimmons.com) | [My Talks](http://www.anjuansimmons.com/my-talks) | [Book Me](http://www.anjuansimmons.com/book-me) | [Contact Me](http://www.anjuansimmons.com/contact)    
 [Twitter](https://twitter.com/anjuan) | [GitHub](https://github.com/anjuan) | [LinkedIn](http://linkedin.com/in/anjuan)
+
+Brian Douglas
+Software Developer and Advocate   
+[Netlify](https://netlify.com/)| [Website](https://briandouglas.me) | [My Talks](https://www.youtube.com/playlist?list=PLpURC3VhaQD0QkE1uRsGX7gMayocniv5s) | [Contact Me](mailto:hello@briandouglas.me?Subject=Hello%20Brian!)    
+[Twitter](https://twitter.com/bdougieYO) | [GitHub](https://github.com/bdougie)
 
 Asia Hoe
 Product Designer
