@@ -1,16 +1,16 @@
 +++
 bio = ""
-company = "ISL"
+company = "Capital One"
 date = "2016-12-20T02:39:13.558Z"
-location = ""
+location = "Washington DC"
 name = "Johnny Ray Austin"
 title = "Johnny Ray Austin"
 subjects = []
-role = "Director of Technology"
+role = "Technology Fellow"
 
 [[social_links]]
   name = "Website"
-  url = "https://johnnyray.me"
+  url = "https://recursivefunk.io/"
 
 [[social_links]]
   name = "Twitter"
