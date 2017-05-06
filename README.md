@@ -117,8 +117,7 @@ Square
 [Twitter](https://twitter.com/gkimbwala) | [LinkedIn](https://linkedin.com/in/gkimbwala) | [GitHub](https://github.com/gkimbwala)  
 
 Patricia Realini  
-Front End Engineer  
-Fabric  
+Front End Engineer   
 [Website](http://patriciarealini.com) | [Twitter](https://twitter.com/patriciarealini) | [GitHub](https://github.com/patriciarealini)  
 
 Jacky Alciné  
