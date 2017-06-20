@@ -5,8 +5,9 @@ Often, we find speaker lists or panels at conferences and other events that lack
 people from underrepresented groups. At times, we hear the excuse that there
 aren't enough people from underrepresented groups to reach out to or that they
 couldn't find any that wanted to participate.  This list aims to fix that
-problem. Please check out the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for guidelines for
-contributing.
+problem. 
+
+Everyone who wants to speak should consider adding themselves if you identify as part of an underrepresented group. Everyone's experiences matter and should be heard - no matter your skill level, title, role, etc. Please check out the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for guidelines for contributing.
 
 ## Speakers
 
@@ -48,8 +49,8 @@ ISL
 
 Emmanuel Obi  
 Software Engineer  
-[5th Column](http://5thcolumn.net/)
-[Website](http://withtwoemms@github.io) | [Twitter](https://twitter.com/manualautomaton) |
+[5th Column](http://5thcolumn.net/) |
+[Website](https://withtwoemms.github.io) | [Twitter](https://twitter.com/manualautomaton) |
 [Github-personal](https://github.com/withtwoemms) |
 [Github-pro](https://github.com/emmanuellyautomated)
 
@@ -264,3 +265,73 @@ UX Designer
 Booking.com  
 [Website](http://id.etc.br) | [Twitter](https://twitter.com/idmarjr) | [GitHub](https://github.com/idmarjr) | [Speaker Deck](https://speakerdeck.com/idmarjr)  
 
+Lovisa Svallingson   
+Software Engineer  
+CA Technologies (Rally Software)  
+[Website](http://lovisa.io) | [Twitter](https://twitter.com/applegrain) | [GitHub](https://github.com/applegrain)
+
+Emily Dowdle  
+Software Engineer  
+Wazee Digital  
+[Website](http://emilydowdle.com) | [Twitter](https://twitter.com/editingemily) | [GitHub](https://github.com/emilydowdle) | [Conference Talks](http://emilydowdle.com/talks)  
+
+Marla Brizel  
+Software Developer  
+Democracy Works  
+[Website](http://www.marlabrizel.com) | [Twitter](https://twitter.com/marlabrizel) |
+[GitHub](https://github.com/marlabrizel)  
+
+Husani S. Oakley  
+Chief Technology Officer  
+GoldBean  
+[Personal Website](http://husani.com) | [Company Website](https://hellogoldbean.com) | [Twitter](https://twitter.com/husanioakley) |
+[GitHub](https://github.com/husani) | [Linkedin](https://www.linkedin.com/in/husani)
+
+Stacey Haffner  
+Program Manager | Co-Founder/Developer   
+Microsoft | What Up Games, LLC  
+[Twitter](https://twitter.com/yecats131) | [GitHub](https://github.com/staceyhaffner) | [Channel 9](https://channel9.msdn.com/Search?term=stacey%20haffner#ch9Search) | [Website](www.whatupgames.com)  
+
+Jamie Chung  
+Engineer  
+Dropbox  
+[Website](http://jamiechu.ng) | [Twitter](https://twitter.com/attnjamie) | [GitHub](https://github.com/attnjamie) | [LinkedIn](https://www.linkedin.com/in/attnjamie)  
+
+Mike McGarr
+Engineering Manager, Developer Productivity & Insight
+Netflix
+[Website](http://www.mikemcgarr.com) | [Twitter](http://www.twitter.com/SonOfGarr) | [Github](https://github.com/jmcgarr) | [Slideshare](http://www.slideshare.net/jmcgarr/presentations)
+
+Princiya Marina Sequeira  
+Software Engineer FrontEnd  
+Zalando, Berlin  
+[Blog](https://princiya777.wordpress.com) | [Twitter](https://twitter.com/princi_ya) | [GitHub](https://github.com/princiya)  
+
+Kim Crayton  
+Business Relationship Strategist  
+Kim Crayton LLC  
+[Website](http://KimCrayton.com) | [Website](http://JrDevMentoring.com) | [Twitter](https://twitter.com/KimCrayton1) | [Twitter](http://twitter.com/JrDevMentoring) | [Blog](https://medium.com/@KimCrayton1) | [Previous Presentations](https://www.youtube.com/playlist?list=PLEJ1RnaQ_swh7wiD80NSSLu8UrOv3DiQ6)  
+
+Courtney Wilburn  
+Back-End Developer/Programmer  
+[O3 World] (https://o3world.com) | [Website](https://portfolio.cjwilburn.com) | [Twitter](https://twitter.com/cjwilburn) | [GitHub](https://github.com/cjwilburn)
+
+Sumana Harihareswara
+Founder, open source expert and maintainer
+Changeset Consulting
+[Website](https://www.changeset.nyc) | [Twitter](https://twitter.com/brainwane) | [GitHub](https://github.com/brainwane) | [Past talks](http://www.harihareswara.net/talks.html) | [Blog](http://www.harihareswara.net/ces.shtml)
+
+Zach Carter  
+Founder & Design Engineer  
+[Website](http://zaa.ch) | [Twitter](https://twitter.com/zii) |
+[GitHub](https://github.com/zaach) | [LinkedIn](http://linkedin.com/in/zachcarter)
+
+Anjuan Simmons   
+Technical Program Manager   
+[Assemble Systems](http://assemblesystems.com/)  
+[Website](http://www.AnjuanSimmons.com) | [My Talks] (http://www.anjuansimmons.com/my-talks) | [Book Me] (http://www.anjuansimmons.com/book-me) | [Contact Me] (http://www.anjuansimmons.com/contact)    
+[Twitter](https://twitter.com/anjuan) | [GitHub](https://github.com/anjuan) | [LinkedIn](http://linkedin.com/in/anjuan)
+
+Asia Hoe
+Product Designer
+[Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
