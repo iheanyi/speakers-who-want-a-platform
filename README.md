@@ -330,3 +330,7 @@ Technical Program Manager
 Asia Hoe
 Product Designer
 [Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
+
+Narendra N Shetty
+Frontend Developer
+[Medium](https://medium.com/@narendrashetty) | [Twitter](https://twitter.com/narendra_shetty) | [Github](https://github.com/narendrashetty)
