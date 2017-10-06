@@ -133,8 +133,8 @@ Uptake<br>
 
 Ron Bronson<br>
 Service Designer & UX Strategist<br>
-[Twitter] (http://twitter.com/ronbronson) | [Medium] (http://medium.com/@ronbronson) |
-[Lanyrd] (http://lanyrd.com/profile/ronbronson/) | [Speakerdeck] (https://speakerdeck.com/ronbronson)
+[Twitter](http://twitter.com/ronbronson) | [Medium](http://medium.com/@ronbronson) |
+[Lanyrd](http://lanyrd.com/profile/ronbronson/) | [Speakerdeck](https://speakerdeck.com/ronbronson)
 
 Vasanth Krishnamoorthy<br>
 Sr. Front End Engineer<br>
@@ -309,7 +309,7 @@ Kim Crayton LLC<br>
 
 Courtney Wilburn<br>
 Back-End Developer/Programmer<br>
-[O3 World] (https://o3world.com) | [Website](https://portfolio.cjwilburn.com) | [Twitter](https://twitter.com/cjwilburn) | [GitHub](https://github.com/cjwilburn)
+[O3 World](https://o3world.com) | [Website](https://portfolio.cjwilburn.com) | [Twitter](https://twitter.com/cjwilburn) | [GitHub](https://github.com/cjwilburn)
 
 Sumana Harihareswara<br>
 Founder, open source expert and maintainer<br>
@@ -324,7 +324,7 @@ Founder & Design Engineer<br>
 Anjuan Simmons<br>
 Technical Program Manager<br>
 [Assemble Systems](http://assemblesystems.com/)<br>
-[Website](http://www.AnjuanSimmons.com) | [My Talks] (http://www.anjuansimmons.com/my-talks) | [Book Me] (http://www.anjuansimmons.com/book-me) | [Contact Me] (http://www.anjuansimmons.com/contact)
+[Website](http://www.AnjuanSimmons.com) | [My Talks](http://www.anjuansimmons.com/my-talks) | [Book Me](http://www.anjuansimmons.com/book-me) | [Contact Me](http://www.anjuansimmons.com/contact)
 [Twitter](https://twitter.com/anjuan) | [GitHub](https://github.com/anjuan) | [LinkedIn](http://linkedin.com/in/anjuan)
 
 Asia Hoe<br>
