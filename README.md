@@ -11,25 +11,25 @@ Everyone who wants to speak should consider adding themselves if you identify as
 
 ## Speakers
 
-Iheanyi Ekechukwu\s
-Software Engineer\s
-DigitalOcean\s
+Iheanyi Ekechukwu \s
+Software Engineer \s
+DigitalOcean \s
 [Website](http://iheanyi.com) | [Twitter](https://twitter.com/kwuchu) |
 [GitHub](https://github.com/iheanyi)
 
-Ben Ilegbodu\s
-Lead UI Engineer\s
+Ben Ilegbodu \s
+Lead UI Engineer \s
 Eventbrite\s
 [Blog](http://www.benmvp.com) | [Twitter](https://twitter.com/benmvp) |
 [GitHub](https://github.com/benmvp)
 
-Juan Soto\s
-Web Developer\s
+Juan Soto \s
+Web Developer \s
 [Website](http://juansoto.me) | [Twitter](https://twitter.com/_hooan) |
 [GitHub](https://github.com/sotojuan)
 
-Susan Lin\s
-Product Designer\s
+Susan Lin \s
+Product Designer \s
 [Website](http://bysusanlin.com) | [Twitter](https://twitter.com/bysusanlin) | [GitHub](https://github.com/bysl) | [Medium](https://medium.com/@bysusanlin)
 
 Jonah Kirangi
