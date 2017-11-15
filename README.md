@@ -331,7 +331,9 @@ Asia Hoe
 Product Designer
 [Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
 
-Ali Spittel 
-Software Engineer 
-Web Development Instuctor at General Assembly 
+
+Ali Spittel   
+Software Engineer   
+Web Development Instuctor at General Assembly     
 [Website](http://aspittel.github.io) | [Twitter](https://twitter.com/aspittel) | [LinkedIn](https://www.linkedin.com/in/ali-spittel-768a98119) | [GitHub](https://github.com/aspittel)
+
