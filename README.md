@@ -330,3 +330,9 @@ Technical Program Manager
 Asia Hoe
 Product Designer
 [Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
+
+Shannon Crabill 
+Senior Email & Front-End Developer
+T. Rowe Price  
+[Website](http://shannoncrabill.com/) | [Twitter](https://twitter.com/shannon_crabill) |
+[GitHub](https://github.com/scrabill)
