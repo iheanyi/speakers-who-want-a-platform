@@ -255,11 +255,6 @@ Upgrad.com
 [Website](http://critick.io) | [Twitter](https://twitter.com/notimewaste) |
 [GitHub](https://github.com/irfanah)
 
-Idmar Ramos Junior (Id)  
-UX Designer  
-Booking.com  
-[Website](http://id.etc.br) | [Twitter](https://twitter.com/idmarjr) | [GitHub](https://github.com/idmarjr) | [Speaker Deck](https://speakerdeck.com/idmarjr)  
-
 Lovisa Svallingson   
 Software Engineer  
 CA Technologies (Rally Software)  
