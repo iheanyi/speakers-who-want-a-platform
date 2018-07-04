@@ -330,3 +330,10 @@ Technical Program Manager
 Asia Hoe
 Product Designer
 [Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
+
+
+Olususi Oluyemi  
+Software Engineer / Technical content creator
+Realcode Media Technology
+[Website](http://yemiwebby.com.ng/) | [Twitter](https://twitter.com/yemiwebby) |
+[GitHub](https://github.com/yemiwebby)
