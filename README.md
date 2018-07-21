@@ -5,7 +5,7 @@ Often, we find speaker lists or panels at conferences and other events that lack
 people from underrepresented groups. At times, we hear the excuse that there
 aren't enough people from underrepresented groups to reach out to or that they
 couldn't find any that wanted to participate.  This list aims to fix that
-problem.
+problem. 
 
 Everyone who wants to speak should consider adding themselves if you identify as part of an underrepresented group. Everyone's experiences matter and should be heard - no matter your skill level, title, role, etc. Please check out the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for guidelines for contributing.
 
@@ -133,7 +133,7 @@ Uptake
 
 Ron Bronson  
 Service Designer & UX Strategist  
-[Twitter] (http://twitter.com/ronbronson) | [Medium] (http://medium.com/@ronbronson) |
+[Twitter] (http://twitter.com/ronbronson) | [Medium] (http://medium.com/@ronbronson) | 
 [Lanyrd] (http://lanyrd.com/profile/ronbronson/) | [Speakerdeck] (https://speakerdeck.com/ronbronson)
 
 Vasanth Krishnamoorthy  
@@ -240,7 +240,7 @@ Front End Web Developer
 Steve Lacy  
 Full-stack developer & Security researcher  
 Fact0ry / Independent   
-[Website](http://slacy.me) | [Twitter](https://twitter.com/stevedelacy) |
+[Website](http://slacy.me) | [Twitter](https://twitter.com/stevedelacy) | 
 [Github](https://github.com/stevelacy)
 
 Atif Azam  
