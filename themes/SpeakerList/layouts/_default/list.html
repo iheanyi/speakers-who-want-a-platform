@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+    <base href="{{ .Site.BaseURL }}">
+    <title>{{ .Site.Title }}</title>
+    <link rel="canonical" href="{{ .Permalink }}">
+    <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+</head>
+<body lang="en">
+
+
+<section id="main">
+  <h1>Content</h1>
+  <div>
+    {{ range first 10 .Data.Speakers }}
+      {{ .Content }}
+    {{ end }}
+  </div>
+</section>
+
+{{ partial "footer.html" . }}
+</body>
+</html>

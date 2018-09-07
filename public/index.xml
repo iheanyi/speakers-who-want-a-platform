@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakers Who Want a Platform</title>
+    <link>http://replace-this-with-your-hugo-site.com/index.xml</link>
+    <description>Recent content on Speakers Who Want a Platform</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Sep 2016 21:27:52 -0400</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ben Ilegbodu</title>
+      <link>http://replace-this-with-your-hugo-site.com/speaker/Ben-Ilegbodu/</link>
+      <pubDate>Tue, 20 Sep 2016 21:27:52 -0400</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/speaker/Ben-Ilegbodu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iheanyi Ekechukwu</title>
+      <link>http://replace-this-with-your-hugo-site.com/speaker/iheanyi-ekechukwu/</link>
+      <pubDate>Mon, 19 Sep 2016 21:21:09 -0400</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/speaker/iheanyi-ekechukwu/</guid>
+      <description>&lt;p&gt;Iheanyi Ekechukwu is a Software Engineer at DigitalOcean.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

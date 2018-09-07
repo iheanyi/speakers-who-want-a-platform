@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <lastmod>2016-09-20T21:27:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/speaker/Ben-Ilegbodu/</loc>
+    <lastmod>2016-09-20T21:27:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/speaker/iheanyi-ekechukwu/</loc>
+    <lastmod>2016-09-19T21:21:09-04:00</lastmod>
+  </url>
+  
+</urlset>

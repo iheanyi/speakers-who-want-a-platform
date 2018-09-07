@@ -1,0 +1,43 @@
+{
+  "name": "speakers-who-want-a-platform",
+  "version": "0.0.1",
+  "description": "Repo for underrepresented speakers who want to speak at a conference.",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "parse": "node scripts/parse-speakers.js",
+    "start": "hugo server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iheanyi/speakers-who-want-a-platform.git"
+  },
+  "keywords": [
+    "speakers",
+    "list",
+    "diversity",
+    "underrepresented",
+    "urm"
+  ],
+  "author": "Iheanyi Ekechukwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iheanyi/speakers-who-want-a-platform/issues"
+  },
+  "homepage": "https://github.com/iheanyi/speakers-who-want-a-platform#readme",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "css-loader": "^0.25.0",
+    "json-loader": "^0.5.4",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "mkdirp": "^0.5.1",
+    "slug": "^0.9.1",
+    "tachyons": "^4.5.2"
+  }
+}
