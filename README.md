@@ -319,9 +319,16 @@ Founder & Design Engineer
 Anjuan Simmons   
 Technical Program Manager   
 [Assemble Systems](http://assemblesystems.com/)  
-[Website](http://www.AnjuanSimmons.com) | [My Talks] (http://www.anjuansimmons.com/my-talks) | [Book Me] (http://www.anjuansimmons.com/book-me) | [Contact Me] (http://www.anjuansimmons.com/contact)    
+[Website](http://www.AnjuanSimmons.com) | [My Talks](http://www.anjuansimmons.com/my-talks) | [Book Me](http://www.anjuansimmons.com/book-me) | [Contact Me](http://www.anjuansimmons.com/contact)    
 [Twitter](https://twitter.com/anjuan) | [GitHub](https://github.com/anjuan) | [LinkedIn](http://linkedin.com/in/anjuan)
 
 Asia Hoe
 Product Designer
 [Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
+
+
+Ali Spittel   
+Software Engineer   
+Web Development Instuctor at General Assembly     
+[Website](http://aspittel.github.io) | [Twitter](https://twitter.com/aspittel) | [LinkedIn](https://www.linkedin.com/in/ali-spittel-768a98119) | [GitHub](https://github.com/aspittel)
+
