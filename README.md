@@ -325,3 +325,9 @@ Technical Program Manager
 Asia Hoe
 Product Designer
 [Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
+
+Atikh Bana
+UX Designer 
+Storj Labs
+[Website](http://atikh.com) | [Twitter](https://twitter.com/tikh) |
+[Dribbble](https://dribbble.com/tikh)
