@@ -190,8 +190,7 @@ Microsoft
 
 Jennifer Wong  
 Software Engineer  
-Eventbrite  
-[Website](http://mochimachine.org/) | [Twitter](https://twitter.com/mybluewristband) |
+[Website](http://mochimachine.com/) | [Twitter](https://twitter.com/mybluewristband) |
 [GitHub](https://github.com/jennz0r)
 
 Serena Chen  
