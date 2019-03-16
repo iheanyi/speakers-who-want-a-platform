@@ -325,3 +325,8 @@ Technical Program Manager
 Asia Hoe
 Product Designer
 [Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
+
+Omayeli Arenyeka
+Frontend Engineer and Creative Technologist
+LinkedIn
+[Website](https://oa495.github.io) | [Twitter](https://twitter.com/YellzHeard) | [LinkedIn](https://www.linkedin.com/in/oarenyeka/) | [GitHub](https://github.com/oa495/)
