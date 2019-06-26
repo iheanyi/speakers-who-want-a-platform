@@ -5,3 +5,7 @@
 that follows the PR formatting. Sometimes if the group one is a part of isn't readily obvious, it can help to clarify.
 3. Submit the PR and wait for it to be merged in.
 
+# Code of Conduct
+
+All pull requests and issues must follow the [Code of
+Conduct](/CODE_OF_CONDUCT.md).
