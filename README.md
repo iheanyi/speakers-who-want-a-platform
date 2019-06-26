@@ -133,7 +133,7 @@ Uptake
 
 Ron Bronson  
 Service Designer & UX Strategist  
-[Twitter] (http://twitter.com/ronbronson) | [Medium] (http://medium.com/@ronbronson) | 
+[Twitter] (http://twitter.com/ronbronson) | [Medium] (http://medium.com/@ronbronson) |
 [Lanyrd] (http://lanyrd.com/profile/ronbronson/) | [Speakerdeck] (https://speakerdeck.com/ronbronson)
 
 Vasanth Krishnamoorthy  
@@ -240,7 +240,7 @@ Front End Web Developer
 Steve Lacy  
 Full-stack developer & Security researcher  
 Fact0ry / Independent   
-[Website](http://slacy.me) | [Twitter](https://twitter.com/stevedelacy) | 
+[Website](http://slacy.me) | [Twitter](https://twitter.com/stevedelacy) |
 [Github](https://github.com/stevelacy)
 
 Atif Azam  
@@ -303,8 +303,8 @@ Kim Crayton LLC
 [Website](http://KimCrayton.com) | [Website](http://JrDevMentoring.com) | [Twitter](https://twitter.com/KimCrayton1) | [Twitter](http://twitter.com/JrDevMentoring) | [Blog](https://medium.com/@KimCrayton1) | [Previous Presentations](https://www.youtube.com/playlist?list=PLEJ1RnaQ_swh7wiD80NSSLu8UrOv3DiQ6)  
 
 Courtney Wilburn  
-Back-End Developer/Programmer  
-[O3 World] (https://o3world.com) | [Website](https://portfolio.cjwilburn.com) | [Twitter](https://twitter.com/cjwilburn) | [GitHub](https://github.com/cjwilburn)
+Lead DevOps Engineer
+[The Wirecutter] (https://thewirecutter.com) | [Website](https://portfolio.cjwilburn.com) | [Twitter](https://twitter.com/cjwilburn) | [GitHub](https://github.com/cjwilburn)
 
 Sumana Harihareswara
 Founder, open source expert and maintainer
