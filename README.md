@@ -38,9 +38,10 @@ Remitly
 [Website](http://www.jonahkirangi.com) | [Twitter](https://twitter.com/jonahkirangi) | [YouTube](https://www.youtube.com/user/jonahkirangi) | [GitHub](https://github.com/jonahkirangi)
 
 Ariana M. Davis 
-Front-End Engineer & Project Manager 
-YesJulz Agency
-[Website](http://www.yourmobilegeek.tech) | [Twitter](https://twitter.com/yourmobilegeek) | [Instagram](https://www.instagram/yourmobilegeek) | [GitHub](https://github.com/yourmobilegeek)  | [Dribbble](https://dribbble.com/yourmobilegeek)
+Lead Full Stack Engineer
+Golden State Warriors 
+[Website](http://www.yourmobilegeek.tech) | [Twitter](https://twitter.com/yourmobilegeek) |
+[GitHub](https://github.com/yourmobilegeek)| [Instagram](https://www.instagram/yourmobilegeek)
 
 Johnny Ray Austin  
 Director of Technology  
