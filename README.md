@@ -40,8 +40,7 @@ Remitly
 Ariana M. Davis 
 Lead Full Stack Engineer
 Golden State Warriors 
-[Website](http://www.yourmobilegeek.tech) | [Twitter](https://twitter.com/yourmobilegeek) |
-[GitHub](https://github.com/yourmobilegeek)| [Instagram](https://www.instagram/yourmobilegeek)
+[Website](http://www.yourmobilegeek.tech) | [Twitter](https://twitter.com/yourmobilegeek) | [GitHub](https://github.com/yourmobilegeek) | [Instagram](https://www.instagram/yourmobilegeek)
 
 Johnny Ray Austin  
 Director of Technology  
