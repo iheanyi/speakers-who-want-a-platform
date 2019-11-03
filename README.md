@@ -325,3 +325,8 @@ Technical Program Manager
 Asia Hoe
 Product Designer
 [Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
+
+Carlos Rymer
+Lead Developer
+[About.com](http://www.about.com/)
+[Website](https://carlosrymer.com/) | [Twitter](https://twitter.com/carlosrymer) | [GitHub](https://github.com/carlosrymer) | [LinkedIn](https://www.linkedin.com/in/carlosrymer)
